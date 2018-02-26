@@ -64,8 +64,9 @@ table {
   border: 1px solid rgba(0, 0, 0, 0.12);
 }
 
-thead {
+thead th {
   border-bottom: 2px solid rgba(0, 0, 0, 0.12);
+  padding: 0 10px
 }
   
 
