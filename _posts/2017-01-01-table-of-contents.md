@@ -3,6 +3,12 @@ title: Table of Contents
 layout: chapter
 ---
 
+{% for p in site.posts %}
+- [{{ post.title }}]({{ baseurl }}{{ post.url }})
+{% endfor %}
+
+---
+
 - [Prologue](#prologue)
 - [Chapter 1 — Rowan & Lianna](#chapter-1--rowan--lianna)
 - [Chapter 2 — Lissa](#chapter-2--lissa)
