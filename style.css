@@ -14,7 +14,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: sans-serif;
+  font-family: 'Lato', sans-serif;
   color: #e60012;
 }
 
@@ -53,9 +53,9 @@ nav li {
 #content {
   position: relative;
   top: -14px;
-  font-family: "Georgia", serif;
-  font-size: 15px;
-  line-height: 26px;
+  font-family: 'Merriweather', 'Georgia', serif;
+  font-size: 14px;
+  line-height: 25px;
   color: rgba(0, 0, 0, 0.87);
   padding: 0 24px;
   max-width: 800px;
