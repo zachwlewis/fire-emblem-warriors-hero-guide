@@ -61,12 +61,21 @@ nav li {
 }
 
 table {
-  border: 1px solid rgba(0, 0, 0, 0.12);
+  border: none;
+  table-layout: fixed;
+  table-collapse: collapse;
+}
+
+thead th, tbody td {
+  padding: 4px 16px;
 }
 
 thead th {
   border-bottom: 2px solid rgba(0, 0, 0, 0.12);
-  padding: 0 10px
 }
-  
+
+tbody td {
+  border-bottom 1px solid rgba(0, 0, 0, 0.12);
+}
+
 
