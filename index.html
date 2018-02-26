@@ -1,1 +1,15 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="style.css" type="text/css">
+  <title>Table of Contents</title>
+</head>
+<body>
+  {% include navigation.html %}
+	{% for post in site.posts %}
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  {% endfor %}
+  {% include navigation.html %}
+</body>
+</html>
