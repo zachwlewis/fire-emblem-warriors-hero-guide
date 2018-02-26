@@ -70,12 +70,16 @@ thead th, tbody td {
   padding: 4px 16px;
 }
 
-thead th {
+thead tr {
   border-bottom: 2px solid rgba(0, 0, 0, 0.12);
 }
 
-tbody td {
+tbody tr {
   border-bottom 1px solid rgba(0, 0, 0, 0.12);
+}
+
+tbody tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.06);
 }
 
 
