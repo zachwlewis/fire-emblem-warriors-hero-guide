@@ -18,11 +18,12 @@ h1, h2, h3, h4, h5, h6 {
   color: rgba(230, 0, 18, 0.87);
 }
 
-h1, h2 {
-  font-weight: 300;
+h1 {
+  font-weight: 400;
 }
 
 h2 {
+  font-weight: 300;
   border-bottom: 1px solid rgba(230, 0, 18, 0.12);
 }
 
