@@ -4,7 +4,7 @@ layout: chapter
 ---
 
 {% for p in site.posts %}
-- [{{ post.title }}]({{ baseurl }}{{ post.url }})
+- [{{ p.title }}]({{ baseurl }}{{ p.url }})
 {% endfor %}
 
 ---
