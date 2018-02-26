@@ -44,6 +44,10 @@ nav ul:hover {
   opacity: 0.87;
 }
 
+code, pre {
+  font-family: 'Roboto Mono', monospace;
+}
+
 nav li {
   display: inline-block;
   width: 33%;
