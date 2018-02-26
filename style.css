@@ -39,6 +39,7 @@ nav li {
   width: 33%;
   text-align: center;
   padding: 8px 0;
+  opacity: 0.56;
 }
 
 #content {
