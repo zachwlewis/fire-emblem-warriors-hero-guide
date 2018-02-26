@@ -4,6 +4,15 @@ body {
   padding: 0;
 }
 
+a {
+  text-decoration: none;
+  color: #e60012;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: sans-serif;
 }
