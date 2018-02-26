@@ -1,2 +1,2 @@
-permalink: /:title/
+permalink: /:title:output_ext
 url: http://zacharylew.is/fire-emblem-warriors-hero-guide
