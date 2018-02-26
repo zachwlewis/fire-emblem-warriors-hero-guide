@@ -21,6 +21,7 @@ nav li {
   display: inline-block;
   width: 33%;
   text-align: center;
+  padding: 8px 0;
 }
 
 #content {
