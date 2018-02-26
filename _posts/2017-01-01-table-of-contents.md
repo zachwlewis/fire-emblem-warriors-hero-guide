@@ -8,6 +8,7 @@ layout: chapter
 {% for p in sorted %}
   {% if p.title != "Table of Contents" %}
   <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
+  {% endif %}
 {% endfor %}
 </ul>
 
