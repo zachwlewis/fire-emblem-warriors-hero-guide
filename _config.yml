@@ -1,2 +1,4 @@
 permalink: /:title:output_ext
-url: http://zacharylew.is/fire-emblem-warriors-hero-guide
+
+baseurl: /fire-emblem-warriors-hero-guide
+url: http://zacharylew.is
