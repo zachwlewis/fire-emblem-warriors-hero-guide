@@ -1,27 +1,32 @@
 body {
   background: #fafafa;
   font-family: "Roboto", sans-serif;
+  margin: none;
 }
 
 nav {
-  margin: 0;
-  padding: 10px;
-  background: #eee;
+  margin: 0 -16px;
+  padding: 2px;
+  background: rgba(0, 0, 0, 0.1);
 }
 
 nav ul {
   list-style-type: none;
+  margin: none;
+  padding: none;
 }
 
 nav li {
   display: inline-block;
+  padding: 0 10px;
 }
 
 #content {
+  padding: 0 16px;
   max-width: 800px;
   background: #fff;
   margin: 0 auto;
-  box-shadow: 0 0px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0px 3px rgba(0, 0, 0, 0.1);
 }
   
 
