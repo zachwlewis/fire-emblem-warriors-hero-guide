@@ -1,15 +1,15 @@
 <nav>
   <ul>
     {% if page.previous.url %}
-    <li><a class="prev" href="{{ site.baseurl }}{{page.previous.url}}">&larr; Previous Chapter</a></li>
+    <li>&larr; <a class="prev" href="{{ site.baseurl }}{{page.previous.url}}">Previous Chapter</a></li>
     {% else %}
     <li>&larr; Previous Chapter</li>
     {% endif %}
     
-    <li><a href="{{ site.baseurl }}{% link _posts/2017-01-01-table-of-contents.md %}">&sect; Contents</a></li>
+    <li>&sect; <a href="{{ site.baseurl }}{% link _posts/2017-01-01-table-of-contents.md %}">Contents</a></li>
     
     {% if page.next.url %}
-    <li><a class="next" href="{{ site.baseurl }}{{page.next.url}}">Next Chapter &rarr;</a></li>
+    <li><a class="next" href="{{ site.baseurl }}{{page.next.url}}">Next Chapter</a> &rarr;</li>
     {% else %}
     <li>Next Chapter &rarr;</li>
     {% endif %}
