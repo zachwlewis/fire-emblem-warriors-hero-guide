@@ -32,6 +32,11 @@ nav ul {
   list-style-type: none;
   margin: none;
   padding: none;
+  opacity: 0.56;
+}
+
+nav ul:hover {
+  opacity: 0.87;
 }
 
 nav li {
