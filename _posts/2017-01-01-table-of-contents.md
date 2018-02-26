@@ -4,7 +4,7 @@ layout: chapter
 ---
 
 <ul>
-{% assign sorted = (site.posts | sort: 'date') | reverse %}
+{% assign sorted = (site.posts | sort: 'date') %}
 {% for p in sorted %}
   <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
 {% endfor %}
