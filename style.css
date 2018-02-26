@@ -59,5 +59,13 @@ nav li {
   margin: 0 auto;
   box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
 }
+
+table {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+thead {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.12);
+}
   
 
