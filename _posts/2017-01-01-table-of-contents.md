@@ -2,10 +2,11 @@
 title: Table of Contents
 layout: chapter
 ---
-
+<ul>
 {% for p in site.posts %}
-- [{{ p.title }}]({{ baseurl }}{{ p.url }})
+  <li>[{{ p.title }}]({{ site.baseurl }}{{ p.url }})</li>
 {% endfor %}
+</ul>
 
 ---
 
