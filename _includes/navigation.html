@@ -1,21 +1,3 @@
-<nav>
-  <ul>
-    {% if page.previous.url %}
-    <li>&larr; <a class="prev" href="{{ site.baseurl }}{{page.previous.url}}">Previous Chapter</a></li>
-    {% else %}
-    <li>&larr; Previous Chapter</li>
-    {% endif %}
-    
-    <li>&sect; <a href="{{ site.baseurl }}{% link _posts/2017-01-01-table-of-contents.md %}">Contents</a></li>
-    
-    {% if page.next.url %}
-    <li><a class="next" href="{{ site.baseurl }}{{page.next.url}}">Next Chapter</a> &rarr;</li>
-    {% else %}
-    <li>Next Chapter &rarr;</li>
-    {% endif %}
-  </ul>
-</nav>
-
 <div class="container p-0">
     <nav class="navbar navbar-expand navbar-dark bg-primary">
       <ul class="navbar-nav w-100 text-center">
