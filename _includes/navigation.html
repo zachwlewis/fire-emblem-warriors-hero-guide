@@ -3,19 +3,19 @@
       <ul class="navbar-nav w-100 text-center">
         <li class="col nav-item align-middle">
           {% if page.previous.url %}
-          <a class="nav-link" href="{{ site.baseurl }}{{page.previous.url}}"><span class="navbar-text">&larr;</span> <span class="d-none d-md-block">Previous Chapter</span></a>
+          <a class="nav-link" href="{{ site.baseurl }}{{page.previous.url}}">&larr;&nbsp;<span class="d-none d-md-block">Previous&nbsp;Chapter</span></a>
           {% else %}
-          <span class="navbar-text">&larr; <span class="d-none d-md-block">Previous Chapter</span></span>
+          &larr;&nbsp;<span class="d-none d-md-block">Previous&nbsp;Chapter</span>
           {% endif %}
         </li>
         <li class="col nav-item align-middle">
-          <a class="nav-link" href="/fire-emblem-warriors-hero-guide/table-of-contents.html"><span class="navbar-text">&sect;</span> <span class="d-none d-md-block">Contents</span></a>
+          <a class="nav-link" href="/fire-emblem-warriors-hero-guide/table-of-contents.html">&sect;&nbsp;<span class="d-none d-md-block">Contents</span></a>
         </li>
         <li class="col nav-item align-middle">
           {% if page.next.url %}
-          <a class="nav-link" href="{{ site.baseurl }}{{page.next.url}}"><span class="d-none d-md-block">Next Chapter</span> <span class="navbar-text">&rarr;</span></a>
+          <a class="nav-link" href="{{ site.baseurl }}{{page.next.url}}"><span class="d-none d-md-block">Next&nbsp;Chapter</span>&nbsp;&rarr;</a>
           {% else %}
-          <span class="navbar-text"><span class="d-none d-md-block">Next Chapter</span> &rarr;</span>
+          <span class="d-none d-md-block">Next&nbsp;Chapter</span>&nbsp;&rarr;
           {% endif %}
         </li>
       </ul>
