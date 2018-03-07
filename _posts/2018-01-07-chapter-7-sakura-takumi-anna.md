@@ -7,7 +7,7 @@ Hi everyone! Today’s guide is on the trio of archers: Sakura, Takumi, and Anna
 
 ## Basic Info
 
-### Sakura
+### Sakuras
 
 #### Stats at Level 130 Promoted
 
@@ -21,6 +21,7 @@ Hi everyone! Today’s guide is on the trio of archers: Sakura, Takumi, and Anna
 | Lck  |   124 |
 | Def  |    57 |
 | Res  |   163 |
+{: .table .table-sm .stats}
 
 She’s overall very much what you would expect from a Cleric, Strength aside. Her Magic, Luck, Speed, and Resistance are her definite standout stats. Her Strength and Skill are middling (thankfully, she doesn’t need Strength), and her HP and Defense are rather poor. Still, she has the highest flat offense of any of the archers, which is definitely neat. Her niche is similar to that of Lissa: Mage tank with **Topsy-Turvy**.
 
@@ -54,6 +55,7 @@ Mag/Res/Skill (+5 with A/A+, otherwise +3)
 | Lck  |   134 |
 | Def  |    57 |
 | Res  |    66 |
+{: .table .table-sm .stats}
 
 My goodness, that Skill. If you couldn’t tell just by looking at it, Takumi has by far the highest Skill in the game, making his crits and warrior specials extremely potent. In general, he is a character of extremes: his Skill, Strength, Luck, and Speed are all very high, but his Defense and Resistance are poor, and his Magic is the lowest in the game at 4. Despite having a lower flat attacking stat than his sister, Takumi is by far the most offense-oriented archer.
 
@@ -87,6 +89,7 @@ Str/Skill/Speed (+5 with A/A+, otherwise +3)
 | Lck  |   153 |
 | Def  |    88 |
 | Res  |    96 |
+{: .table .table-sm .stats}
 
 Anna has a deceptively good stat spread. It's pretty average across the board, with her only standout stats being her Luck and Speed. Thankfully, with Luna, her Luck can shore up her so-so offenses by a lot. While her Resistance is poor compared to Sakura’s, she is overall the bulkiest of the archers. She also has the option of running **Topsy-Turvy**, but Sakura does it so much better that it’s not really worth it.
 
@@ -96,7 +99,7 @@ Never ~~I triple checked this because I couldn’t believe it either~~
 
 #### Unique Weapon
 
-None
+Anna's Bow (Shadow Dragon DLC only): **Winglsayer** in 7th slot, **True Power**/**Divine Favor** in 8th
 
 #### Unique Skill
 
@@ -112,7 +115,8 @@ Can open chests without a key.
 
 ## Moveset
 
-_Note that the archer `C1` charges by holding the `X` button._
+Note that the archer `C1` charges by holding `X`.
+{:.alert .alert-info}
 
 **`C1` (0-2.9 seconds charged):** The unit quickly shoots three arrows in a straight line, which do low damage. Pressing `X` repeatedly allows the unit to rapid-fire the arrows. This is a pretty hilarious move, especially with Astra. It’s not really optimal given its low damage, but as each hit stuns on hit, you can easily cheese officers with this move.
 
@@ -132,40 +136,96 @@ _Note that the archer `C1` charges by holding the `X` button._
 
 ## Weapon Builds
 
+My choices in **bold**, locked skills in _italics_.
+{:.alert .alert-info}
+
 ### Sakura
 
-- **Strong V**
-- Choose one: **Strong III**, **Strong VI**
-- **Rainstorm**
-- **Topsy-Turvy**
-- Choose one: **Mountslayer**, **Dracoslayer**, **Plateslayer**
-- Choose one: **Pair Up+**, **Warrior+**, Crit+
+#### Vanilla
 
-`C5` is, in my opinion, the best archer combo. It’s your choice between the two officer killers: **Strong III** and **Strong VI**. **Rainstorm** is a given. **Topsy-Turvy** is also a given, allowing her to use her vastly superior Magic stat as her main source of offense. Since she has a legendary weapon, you also get your choice of a slayer skill. None of these are a standout favorite, so choose whichever suits your needs best. As usual, you can choose between Crit+, **Pair Up+**, and **Warrior+**. I think Pair Up is the best, personally, but all 3 are solid.
+- **Strong I**
+- **Critical Focus**
+- Choose one: **Armor Strike**, Strong III, Strong IV, or Rainstorm
+- **Topsy-Turvy**
+- Choose one: Mountslayer, **Dracoslayer,** Plateslayer
+- Choose one: **Pair Up+,** Warrior+, Crit+
+- _Wingslayer_
+- _True Power_
+
+Fully charged `C1` is very powerful and worth a boost. **Critical Focus** is a great skill that allows Sakura to break stun gauges faster. Since Sakura should be running **Armored Blow** anyway, I strongly recommend using **Armor Strike**. If you prefer a lower risk playstyle, **Rainstorm**, **Strong III**, or **Strong IV** also work. **Topsy-Turvy** allows Sakura to use her large Magic stat and target enemy Resistance. Choose whatever slayer skill you like best. **Mountslayer** edges out the other two due to the high Resistance sported by Leo and Elise, but it is ultimately your choice. Finally, take a 5k skill. **Pair Up+** is the strongest, but **Warrior+** and **Crit+** are solid budget options.
+
+#### DLC
+
+- **Strong I**
+- **Critical Focus** or Tomebreaker
+- Choose one: **Armor Strike** or Rainstorm
+- **Topsy-Turvy**
+- Choose one: Mountslayer, **Dracoslayer**, Plateslayer
+- Choose one: **Pair Up+**, Warrior+, Crit+
+- _Wingslayer_
+- _Divine Favor_
+
+Fully charged `C1` is very powerful and worth a boost. **Critical Focus** is a great skill that allows Sakura to break stun gauges faster. However, if you would rather not farm out the 4k KOs, **Tomebreaker** allows Sakura to overcome the usual high Resistance stat of tome users without having to give up **Topsy-Turvy**. Since Sakura should be running **Armored Blow** anyway, I strongly recommend using **Armor Strike**. If you prefer a lower risk playstyle, **Rainstorm** also works. **Topsy-Turvy** allows Sakura to use her large Magic stat and target enemy Resistance. Choose whatever slayer skill you like best. **Mountslayer** edges out the other two due to the high Resistance sported by Leo and Elise, but it is ultimately your choice. Finally, take a 5k skill. **Pair Up+** is the strongest, but **Warrior+** and **Crit+** are solid budget options.
 
 ### Takumi
 
-- Choose one: **Strong III** or **Awaken Gift**
-- **Strong V**
-- Choose one: **Strong VI** or **Awaken Gift**
-- **Rainstorm**
-- Choose one: **Mountslayer**, **Dracoslayer**, **Plateslayer**
-- Choose one: **Pair Up+**, **Warrior+**, Crit+
+#### Vanilla
 
-Hey, look! No need to choose between **Strong III** and **Strong VI** if you don’t want to. The perks of having 3 magic, eh? However, if you’re soured by archers not building Awakening naturally, you can always take **Awaken Gift**. For your slayer skill, again choose whichever suits your needs, but be sure not to take the same as Sakura. I personally think **Plateslayer** is the best on him, as those units have high Defense, but all 3 are worth consideration. **Pair Up+** is once again is the most consistent option, but Takumi’s crits and warrior specials are absolutely massive, so no shame in choosing either of those.
+- **Strong I**
+- **Critical Focus**
+- Choose one: Rainstorm, Strong III, Strong IV, or **Armor Strike**
+- Choose one: **Rainstorm**, Strong III, Strong IV, or Armor Strike 
+- Choose one: Mountslayer, Dracoslayer, **Plateslayer**
+- Choose one: **Pair Up+,** Warrior+, Crit+
+- _Wingslayer_
+- _True Power_
+
+Fully charged `C1` is very powerful and worth a boost. Since Takumi should be running **Armored Blow** anyway, I strongly recommend using **Armor Strike**. **Critical Focus** is a great skill that helps with breaking stun gauges. The non-**Strong I** combo skills are very flexible, so drop one of them for **Armor Strike** (or use two of them if you don't like it). Choose whatever slayer skill you like best. **Plateslayer** edges out the other two due to the high Defense sported by armored enemies, but it is ultimately your choice. Finally, take a 5k skill. **Pair Up+** is the strongest, but **Warrior+** and **Crit+** are solid budget options.
+
+#### DLC
+
+- **Strong I**
+- Choose one: Rainstorm, Strong III, Strong IV, or **Armor Strike**
+- **Critical Focus**
+- Choose one: **Swordbreaker**, Lancebreaker, Axebreaker, or Bowbreaker
+- Choose one: Mountslayer, Dracoslayer, **Plateslayer**
+- Choose one: **Pair Up+**, Warrior+, Crit+
+- _Wingslayer_
+- _Divine Favor_
+
+Fully charged `C1` is very powerful and worth a boost. Since Takumi should be running **Armored Blow** anyway, I strongly recommend using **Armor Strike**. If you don't like **Armor Strike**, use a combo skill instead. **Critical Focus** is a great skill that helps with breaking stun gauges.  Choose whatever slayer skill you like best. **Plateslayer** edges out the other two due to the high Defense sported by armored enemies, but it is ultimately your choice. Finally, take a 5k skill. **Pair Up+** is the strongest, but **Warrior+** and **Crit+** are solid budget options.
 
 ### Anna
 
-- **Strong III**
-- **Strong V**
-- **Strong VI**
-- **Rainstorm**
-- **Pair Up+**
-- Choose one: **Awaken Gift**, **Strong IV**, **Topsy-Turvy**
+#### Vanilla (Hero Bow)
 
-Since Anna doesn’t have a legendary bow, feel free to run both **Strong III** and **Strong VI**. **Pair Up+** helps a ton with her damage, and is preferred over the other 5K skills. For your last slot, I recommend **Awaken Gift** for the reasons I mentioned in Takumi section. You could also take **Strong IV**, or **Topsy-Turvy** if you hate Sakura and refuse to use her (how could you though?!?).
+- **Strong I**
+- **Critical Focus**
+- Choose one: Rainstorm, Strong III, Strong IV, or **Armor Strike** 
+- Choose one: **Rainstorm,** Strong III, Strong IV, or Armor Strike 
+- Choose one: Rainstorm, **Strong III,** Strong IV, or Armor Strike 
+- Choose one: **Pair Up+**, Warrior+, Crit+
+- _Wingslayer_
+
+Fully charged `C1` is very powerful and worth a boost. Since Anna should be running **Armored Blow** anyway, I strongly recommend using **Armor Strike**. **Critical Focus** is a great skill that helps with breaking stun gauges. The non-**Strong I** combo skills are very flexible, so drop one of them for **Armor Strike** (or use three of them if you don't like it). Finally, take a 5k skill. **Pair Up+** is the strongest, but **Warrior+** and **Crit+** are solid budget options.
+
+#### DLC (Anna's Bow)
+
+- **Strong I**
+- Choose one: Rainstorm, Strong III, Strong IV, or **Armor Strike** 
+- **Critical Focus**
+- Choose one: Swordbreaker, **Lancebreaker,** Axebreaker, or Bowbreaker
+- Choose one: **Mountslayer,** Dracoslayer, Plateslayer
+- Choose one: **Pair Up+**, Warrior+, Crit+
+- _Wingslayer_
+- _Divine Favor_
+
+Fully charged `C1` is very powerful and worth a boost. Since Anna should be running **Armored Blow** anyway, I strongly recommend using **Armor Strike**. If you don't like **Armor Strike**, use a combo skill instead. **Critical Focus** is a great skill that helps with breaking stun gauges. Since Anna's Bow gets **Divine Favor**, you can and should run a slayer skill, so choose the one you like best. **Plateslayer** edges out the other two due to the high Defense sported by armored enemies, but it is ultimately your choice. Finally, take a 5k skill. **Pair Up+** is the strongest, but **Warrior+** and **Crit+** are solid budget options.
 
 ## Boost Skills
+
+My choices in _italics_.
+{: .alert .alert-info}
 
 ### Sakura
 
@@ -174,38 +234,39 @@ Since Anna doesn’t have a legendary bow, feel free to run both **Strong III** 
 | **Astra**      | **Ryoma**   | **X** | **X** |
 | **Luna**       | **Chrom**   | **X** | **X** |
 | **Trample**    | **Camilla** | **X** | **X** |
-| Armored Blow   | Tiki        |   X   |       |
+| **Luck +20**   | **Celica**  | **X** | **X** |
+| _Armored Blow_ | _Tiki_      |   X   |       |
 | Pass           | Lyn         |   X   |       |
-| Luck +20       | Celica      |   X   |   X   |
-| Mag +10        | Leo         |   X   |   X   |
-| Def +10        | Hinoka      |   X   |   X   |
-| Solidarity     | Robin       |   X   |   X   |
-| Dracoshield    | Corrin      |   X   |   X   |
+| _Solidarity_   | Robin       |   X   |   X   |
 | Live To Serve  | Lianna      |   X   |   X   |
 | Aegis          | Xander      |   X   |       |
 | Pavise         | Frederick   |   X   |       |
+| _Lethality_    | _Niles_     |   X   |       |
+| Quick Wit      | Linde       |   X   |       |
+| _Dracoshield_  | Corrin      |       |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 
-Astra (Ryoma), Luna (Chrom), Trample (Camilla)
+Astra (Ryoma), Luna (Chrom), Trample (Camilla), Luck +20 (Celica)
 
 - The main damage boosters.
-- At maximum Luck, Sakura’s Luna will reduce an enemy’s def/res by roughly 46%.
+- Be sure to run Luck +20 only if Luna is already equipped.
 
 #### Vanguard Skills
 
-Armored Blow (Tiki), Pass (Lyn), Luck +20 (Celica), Mag +10 (Leo), Def +10 (Hinoka), Solidarity (Robin), Dracoshield (Corrin), Live to Serve (Lianna), Aegis (Xander), Pavise (Frederick)
+_Armored Blow (Tiki)_, Pass (Lyn), Solidarity (Robin), Live to Serve (Lianna), Aegis (Xander), Pavise (Frederick), _Lethality (Niles)_, Quick Wit (Linde)
 
-- Armored Blow is pretty much a must have if you want to use her `C1`. Pass is ok too.
+- Armored Blow is pretty much a must have if you want to use her C1. Pass is ok too.
 - Aegis and Pavise will reduce damage taken by the relevant weapons by 34%.
-- With Luck +20, her Luna will reduce foes’ Def/Res by roughly 51%, and Aegis/Pavise's damage reduction is increased to roughly 41%.
-- Mag +10 can help increase her flat damage, while Def +10 can shore up her poor defense.
-- Solidarity and Dracoshield are decent options if you plan on pair swapping often.
 - Live to Serve gives her some sustain to work with.
+- Lethality has a 62% chance to proc at max Luck, increased to 72% with Luck +20.
+- Quick Wit allows Sakura to build up her Awakening gauge via critical hits.
+- Solidarity provides a pretty massive damage boost to the vanguard when this unit is the support.
 
 #### Support Skills
 
-Luck +20 (Celica), Mag +10 (Leo), Def +10 (Hinoka), Solidarity (Robin), Dracoshield (Corrin), Live to Serve (Lianna)
+_Solidarity (Robin)_, _Dracoshield (Corrin)_, Live to Serve (Lianna)
 
 - Dracoshield, Solidarity, and Live to Serve are more valuable on an AI controlled unit. Otherwise, see the above section.
 
@@ -216,37 +277,37 @@ Luck +20 (Celica), Mag +10 (Leo), Def +10 (Hinoka), Solidarity (Robin), Dracoshi
 | **Astra**      | **Ryoma**   | **X** | **X** |
 | **Luna**       | **Chrom**   | **X** | **X** |
 | **Trample**    | **Camilla** | **X** | **X** |
+| **Luck +20**   | **Celica**  | **X** | **X** |
 | Armored Blow   | Tiki        |   X   |       |
 | Pass           | Lyn         |   X   |       |
-| Luck +20       | Celica      |   X   |   X   |
-| Str + 10       | Lissa       |   X   |   X   |
-| Def +10        | Hinoka      |   X   |   X   |
-| Res +10        | Elise       |   X   |   X   |
-| Skill +10      | Takumi      |   X   |       |
-| Solidarity     | Robin       |   X   |   X   |
-| Dracoshield    | Corrin      |   X   |   X   |
+| _Solidarity_   | _Robin_     |   X   |   X   |
 | Potent Potion  | Rowan       |   X   |   X   |
+| _Lethality_    | _Niles_     |   X   |       |
+| Quick Wit      | Linde       |   X   |       |
+| Def +10        | Hinoka      |       |   X   |
+| Res +10        | Elise       |       |   X   |
+| _Dracoshield_  | _Corrin_    |       |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 
-Astra (Ryoma), Luna (Chrom), Trample (Camilla)
+Astra (Ryoma), Luna (Chrom), Trample (Camilla), Luck +20 (Celica)
 
 - The main damage boosters.
-- At maximum Luck, Takumi’s Luna will reduce an enemy’s def/res by roughly 48%.
+- Be sure to run Luck +20 only if Luna is already equipped.
 
 #### Vanguard Skills
 
-Armored Blow (Tiki), Pass (Lyn), Luck +20 (Celica), Str +10 (Lissa), Def +10 (Hinoka), Res +10 (Elise), Skill +10 (Takumi), Solidarity (Robin), Dracoshield (Corrin), Potent Potion (Rowan)
+_Armored Blow (Tiki)_, Pass (Lyn), Solidarity (Robin), Potent Potion (Rowan), _Lethality (Niles)_, Quick Wit (Linde)
 
-- Armored Blow, Pass, Solidarity, and Dracoshield were covered sufficiently above.
-- With Luck +20, his Luna will reduce foes’ Def/Res by roughly 53%.
-- Str +10 boosts his flat damage, while Skill +10 should be run if you opted for **Critical+**.
-- Def and Res +10 are both good options to shore up his poor defenses. Aegis and Pavise are also usable, but somewhat less efficient than the flat bonuses.
+- Armored Blow, Pass, and Solidarity were covered sufficiently above.
 - Potent Potion allows him to support allies with heals.
+- Lethality has a 67% chance to proc at max Luck, increased to 77% with Luck +20.
+- Quick Wit allows Takumi to build up his Awakening gauge via critical hits.
 
 #### Support Skills
 
-Luck +20 (Celica), Str +10 (Lissa), Def +10 (Hinoka), Res +10 (Elise), Solidarity (Robin), Dracoshield (Corrin), Potent Potion (Rowan)
+Def +10 (Hinoka), Res +10 (Elise), _Solidarity (Robin)_, _Dracoshield (Corrin)_, Potent Potion (Rowan)
 
 - Potent Potion, Solidarity, and Dracoshield are more valuable on an AI controlled unit. Otherwise, see above.
 
@@ -257,38 +318,38 @@ Luck +20 (Celica), Str +10 (Lissa), Def +10 (Hinoka), Res +10 (Elise), Solidarit
 | **Astra**      | **Ryoma**   | **X** | **X** |
 | **Luna**       | **Chrom**   | **X** | **X** |
 | **Trample**    | **Camilla** | **X** | **X** |
-| Armored Blow   | Tiki        |   X   |       |
+| **Luck +20**   | **Celica**  |   X   |   X   |
+| _Armored Blow_ | _Tiki_      |   X   |       |
 | Pass           | Lyn         |   X   |       |
-| Luck +20       | Celica      |   X   |   X   |
-| Str + 10       | Lissa       |   X   |   X   |
-| Solidarity     | Robin       |   X   |   X   |
-| Dracoshield    | Corrin      |   X   |   X   |
+| _Solidarity_   | _Robin_     |   X   |   X   |
 | Potent Potion  | Rowan       |   X   |   X   |
-| Aegis          | Xander      |   X   |       |
-| Pavise         | Frederick   |   X   |       |
+| _Lethality_    | _Niles_     |   X   |       |
+| Quick Wit      | Linde       |   X   |       |
+| _Dracoshield_  | _Corrin_    |   X   |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 
-Astra (Ryoma), Luna (Chrom), Trample (Camilla)
+Astra (Ryoma), Luna (Chrom), Trample (Camilla), Luck +20 (Celica)
 
 - The main damage boosters.
-- At maximum Luck, Anna’s Luna will reduce an enemy’s Def/Res by roughly 52%.
+- Be sure to run Luck +20 only if Luna is already equipped.
 
 #### Vanguard Skills
 
-Armored Blow (Tiki), Pass (Lyn), Luck +20 (Celica), Str +10 (Lissa), Solidarity (Robin), Dracoshield (Corrin), Potent Potion (Rowan), Aegis (Xander), Pavise (Frederick)
+_Armored Blow (Tiki),_ Pass (Lyn), Solidarity (Robin) Potent Potion (Rowan), Aegis (Xander), Pavise (Frederick), _Lethality (Niles),_ Quick Wit (Linde)
 
-- Armored Blow, Pass, Str +10, Solidarity, Dracoshield, and Potent Potion we covered sufficiently in above sections.
+- Armored Blow, Pass, Solidarity, and Potent Potion were covered sufficiently in above sections.
 - At max Luck, Aegis and Pavise's damage reduction against the relevant weapons is 42%
-- With Luck +20, her Luna will reduce foes’ Def/Res by roughly 57%, and Aegis/Pavise's damage reduction is increased to roughly 49%.
+- Lethality has a ~77% chance to proc at max Luck, increased to ~87% with Luck +20.
+- Quick Wit allows Anna to build up her Awakening gauge via critical hits.
 
 #### Support Skills
 
-Luck +20 (Celica), Str +10 (Lissa), Solidarity (Robin), Dracoshield (Corrin), Potent Potion (Rowan)
+_Solidarity (Robin)_, _Dracoshield (Corrin)_, Potent Potion (Rowan)
 
 - Potent Potion, Solidarity, and Dracoshield are more valuable on an AI controlled unit. Otherwise, see above.
 
 ## Conclusion
 
-The archers are pretty solid picks. I think they are all roughly equal. If I were to call one the best, I think Anna has the most potential. After running calculations, I think Anna is potentially better than either of the royal archers with a full Luck build, having insanely high damage while also sporting impressive bulk with Aegis and Pavise. However, Sakura's Luck is also very high and she has great Magic, allowing her to take on foes she cannot. For Takumi's part, his massive Skill maxes his warrior specials and crits the most potent in the entire game. They make good pair up partners (especially Anna for the spicy +5 Luck), and when it comes to AoE, they are unrivaled. They are also excellent jugglers, and indeed rely on juggling to dish out damage. The only thing they really sorely lack is a reliable way to open up stun gauges without having to stand still for a minimum of 3 seconds. Still, when you need to round out a team comp or assassinate some fliers, consider using an archer.
-
+The three vanilla archers are pretty solid picks. Anna, especially after getting a unique bow in the Shadow Dragon DLC, has the highest DPS potential with her monstrous Luck stat; however, Sakura’s Luck is also very high and she has great Magic, allowing her to take on foes she cannot. For Takumi’s part, his massive Skill maxes his warrior specials and crits the most potent in the entire game. They make good pair up partners (especially Anna for the spicy +5 Luck), and when it comes to AoE, they are nearly unrivaled. They are also excellent jugglers, and indeed rely on juggling to dish out damage. Their `C1`s are less reliable than the Mages', but still fantastic provided you have the right skills.
