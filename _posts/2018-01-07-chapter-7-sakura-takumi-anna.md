@@ -31,7 +31,7 @@ Always
 
 #### Unique Weapon
 
-Spellbane Yumi: **Wingslayer** in 7th slot, **True Power** in 8th
+Spellbane Yumi: **Wingslayer** in 7th slot, **True Power** (**Divine Favor** with Fates DLC) in 8th
 
 #### Unique Skill
 
@@ -57,7 +57,7 @@ Mag/Res/Skill (+5 with A/A+, otherwise +3)
 | Res  |    66 |
 {: .table .table-sm .stats}
 
-My goodness, that Skill. If you couldn’t tell just by looking at it, Takumi has by far the highest Skill in the game, making his crits and warrior specials extremely potent. In general, he is a character of extremes: his Skill, Strength, Luck, and Speed are all very high, but his Defense and Resistance are poor, and his Magic is the lowest in the game at 4. Despite having a lower flat attacking stat than his sister, Takumi is by far the most offense-oriented archer.
+My goodness, that Skill. If you couldn’t tell just by looking at it, Takumi has by far the highest Skill in the game, making his crits and warrior specials extremely potent. In general, he is a character of extremes: his Skill, Strength, Luck, and Speed are all very high, but his Defense and Resistance are poor, and his Magic is the second lowest in the game at 4. Despite having a lower flat attacking stat than his sister, Takumi is by far the most offense-oriented archer.
 
 #### Staff
 
@@ -65,7 +65,7 @@ Never ~~what a shock, lol 4 mag~~
 
 #### Unique Weapon
 
-Fujin Yumi: **Wingslayer** in 7th slot, **True Power** in 8th
+Fujin Yumi: **Wingslayer** in 7th slot, **True Power** (**Divine Favor** with Fates DLC) in 8th
 
 #### Unique Skill
 
@@ -99,7 +99,7 @@ Never ~~I triple checked this because I couldn’t believe it either~~
 
 #### Unique Weapon
 
-Anna's Bow (Shadow Dragon DLC only): **Winglsayer** in 7th slot, **True Power**/**Divine Favor** in 8th
+Anna's Bow (with Shadow Dragon DLC): **Winglsayer** in 7th slot, **True Power**/**Divine Favor** in 8th
 
 #### Unique Skill
 
@@ -118,11 +118,11 @@ Can open chests without a key.
 Note that the archer `C1` charges by holding `X`.
 {:.alert .alert-info}
 
-**`C1` (0-2.9 seconds charged):** The unit quickly shoots three arrows in a straight line, which do low damage. Pressing `X` repeatedly allows the unit to rapid-fire the arrows. This is a pretty hilarious move, especially with Astra. It’s not really optimal given its low damage, but as each hit stuns on hit, you can easily cheese officers with this move.
+**`C1`: (0-2.9 seconds charged):** The unit quickly shoots three arrows in a straight line, which do low damage. Pressing `X` repeatedly allows the unit to rapid-fire the arrows. This is a pretty hilarious move, especially with **Astra**. It’s not really optimal given its low damage, but as each hit stuns on hit, you can easily cheese officers with this move — it will just take a while.
 
-**`C1` (3-5.9 seconds charged):** The unit fires a green orb in a straight line, exposing a white stun gauge on all foes hit. This move… man, if only the charge time weren’t so long. Three seconds isn’t too bad, I guess, but you don’t want to be standing still that long around officers, especially when all you get is a white stun gauge.
+**`C1` (3-5.9 seconds charged):** The unit fires a green orb in a straight line, exposing a white stun gauge on all foes hit. **Astra** speeds up the charge, but you generally want to commit to the full charge for the bonus damage and yellow stun gauge.
 
-**`C1` (6 seconds charged):** The unit fires a large energy blast in an ‘X’ formation, dealing moderate damage and exposing a yellow stun gauge on all enemies hit. This might be a controversial opinion, but I don’t like this attack at all. Yellow stun gauges are a wonderful thing to have free access to on any unit… but not at the cost of standing still for 6 seconds. That’s 6 seconds of standing still, praying you don’t get hit (and if you don’t have Armored Blow, the charge will be cancelled if you do get hit), not doing any DPS whatsoever. Astra doesn’t speed up the charge time, either. For context, with Astra, the archer regular combo comes out in about 5 seconds. The entire regular combo comes out faster than this one move.
+**`C1` (6 seconds charged):** The unit fires a large energy blast in an 'X' formation over a long distance, dealing a large amount damage and exposing a yellow stun gauge on all enemies hit. This attack is great _if_ you have **Armored Blow** and **Astra**. **Astra** halves the charge time and **Armored Blow** prevents enemies from interrupting you. Use it from a long distance to set up a big critical strike, then rinse and repeat to your satisfaction. Just make sure you have the proper skills when using it, otherwise you will be a sitting duck.
 
 **`C2`:** The unit uppercuts nearby enemies with their bow and slashes sideways. A pretty good launcher that combos very well with their naturally juggle-heavy regular string.
 
@@ -224,26 +224,29 @@ Fully charged `C1` is very powerful and worth a boost. Since Anna should be runn
 
 ## Boost Skills
 
-My choices in _italics_.
+- **M**: Mandatory. This skill should always be run.
+- **S**: Suggested. This skill is my choice when playing, but your mileage may vary.
+- O: Optional. This skill can be run. Be sure to read the skill breakdown to determine if this skill is right for you.
+- –: This skill shouldn't be run.
 {: .alert .alert-info}
 
 ### Sakura
 
 | Skill          | Hero        |  PC   |  AI   |
 | :------------- | :---------- | :---: | :---: |
-| **Astra**      | **Ryoma**   | **X** | **X** |
-| **Luna**       | **Chrom**   | **X** | **X** |
-| **Trample**    | **Camilla** | **X** | **X** |
-| **Luck +20**   | **Celica**  | **X** | **X** |
-| _Armored Blow_ | _Tiki_      |   X   |       |
-| Pass           | Lyn         |   X   |       |
-| _Solidarity_   | Robin       |   X   |   X   |
-| Live To Serve  | Lianna      |   X   |   X   |
-| Aegis          | Xander      |   X   |       |
-| Pavise         | Frederick   |   X   |       |
-| _Lethality_    | _Niles_     |   X   |       |
-| Quick Wit      | Linde       |   X   |       |
-| _Dracoshield_  | Corrin      |       |   X   |
+| Astra          | Ryoma       | **M** | **M** |
+| Luna           | Chrom       | **M** | **M** |
+| Trample        | Camilla     | **M** | **M** |
+| Luck +20\*     | Celica      | **M** | **M** |
+| Armored Blow   | Tiki        | **S** |   –   |
+| Pass           | Lyn         |   O   |   –   |
+| Solidarity     | Robin       |   O   | **S** |
+| Live To Serve  | Lianna      |   O   |   O   |
+| Aegis          | Xander      |   O   |   –   |
+| Pavise         | Frederick   |   O   |   –   |
+| Lethality      | Niles       | **S** |   –   |
+| Quick Wit      | Linde       |   O   |   –   |
+| Dracoshield    | Corrin      |   –   | **S** |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
@@ -251,13 +254,13 @@ My choices in _italics_.
 Astra (Ryoma), Luna (Chrom), Trample (Camilla), Luck +20 (Celica)
 
 - The main damage boosters.
-- Be sure to run Luck +20 only if Luna is already equipped.
+- \* Be sure to run Luck +20 only if Luna is already equipped.
 
 #### Vanguard Skills
 
 _Armored Blow (Tiki)_, Pass (Lyn), Solidarity (Robin), Live to Serve (Lianna), Aegis (Xander), Pavise (Frederick), _Lethality (Niles)_, Quick Wit (Linde)
 
-- Armored Blow is pretty much a must have if you want to use her C1. Pass is ok too.
+- Armored Blow is pretty much a must have if you want to use her `C1`. Pass is ok too.
 - Aegis and Pavise will reduce damage taken by the relevant weapons by 34%.
 - Live to Serve gives her some sustain to work with.
 - Lethality has a 62% chance to proc at max Luck, increased to 72% with Luck +20.
@@ -274,19 +277,19 @@ _Solidarity (Robin)_, _Dracoshield (Corrin)_, Live to Serve (Lianna)
 
 | Skill          | Hero        |  PC   |  AI   |
 | :------------- | :---------- | :---: | :---: |
-| **Astra**      | **Ryoma**   | **X** | **X** |
-| **Luna**       | **Chrom**   | **X** | **X** |
-| **Trample**    | **Camilla** | **X** | **X** |
-| **Luck +20**   | **Celica**  | **X** | **X** |
-| Armored Blow   | Tiki        |   X   |       |
-| Pass           | Lyn         |   X   |       |
-| _Solidarity_   | _Robin_     |   X   |   X   |
-| Potent Potion  | Rowan       |   X   |   X   |
-| _Lethality_    | _Niles_     |   X   |       |
-| Quick Wit      | Linde       |   X   |       |
-| Def +10        | Hinoka      |       |   X   |
-| Res +10        | Elise       |       |   X   |
-| _Dracoshield_  | _Corrin_    |       |   X   |
+| Astra          | Ryoma       | **M** | **M** |
+| Luna           | Chrom       | **M** | **M** |
+| Trample        | Camilla     | **M** | **M** |
+| Luck +20\*     | Celica      | **M** | **M** |
+| Armored Blow   | Tiki        | **S** |   –   |
+| Pass           | Lyn         |   O   |   –   |
+| Solidarity     | Robin       |   O   | **S** |
+| Potent Potion  | Rowan       |   O   |   O   |
+| Lethality      | Niles       | **S** |   –   |
+| Quick Wit      | Linde       |   O   |   –   |
+| Def +10        | Hinoka      |   –   |   O   |
+| Res +10        | Elise       |   –   |   O   |
+| Dracoshield    | Corrin      |   –   | **S** |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
@@ -294,7 +297,7 @@ _Solidarity (Robin)_, _Dracoshield (Corrin)_, Live to Serve (Lianna)
 Astra (Ryoma), Luna (Chrom), Trample (Camilla), Luck +20 (Celica)
 
 - The main damage boosters.
-- Be sure to run Luck +20 only if Luna is already equipped.
+- \* Be sure to run Luck +20 only if Luna is already equipped.
 
 #### Vanguard Skills
 
@@ -315,17 +318,17 @@ Def +10 (Hinoka), Res +10 (Elise), _Solidarity (Robin)_, _Dracoshield (Corrin)_,
 
 | Skill          | Hero        |  PC   |  AI   |
 | :------------- | :---------- | :---: | :---: |
-| **Astra**      | **Ryoma**   | **X** | **X** |
-| **Luna**       | **Chrom**   | **X** | **X** |
-| **Trample**    | **Camilla** | **X** | **X** |
-| **Luck +20**   | **Celica**  |   X   |   X   |
-| _Armored Blow_ | _Tiki_      |   X   |       |
-| Pass           | Lyn         |   X   |       |
-| _Solidarity_   | _Robin_     |   X   |   X   |
-| Potent Potion  | Rowan       |   X   |   X   |
-| _Lethality_    | _Niles_     |   X   |       |
-| Quick Wit      | Linde       |   X   |       |
-| _Dracoshield_  | _Corrin_    |   X   |   X   |
+| Astra          | Ryoma       | **M** | **M** |
+| Luna           | Chrom       | **M** | **M** |
+| Trample        | Camilla     | **M** | **M** |
+| Luck +20\*     | Celica      | **M** | **M** |
+| Armored Blow   | Tiki        | **S** |   –   |
+| Pass           | Lyn         |   O   |   –   |
+| Solidarity     | Robin       |   O   | **S** |
+| Potent Potion  | Rowan       |   O   |   O   |
+| Lethality      | Niles       | **S** |   –   |
+| Quick Wit      | Linde       |   O   |   –   |
+| Dracoshield    | Corrin      |   O   | **S** |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
@@ -333,7 +336,7 @@ Def +10 (Hinoka), Res +10 (Elise), _Solidarity (Robin)_, _Dracoshield (Corrin)_,
 Astra (Ryoma), Luna (Chrom), Trample (Camilla), Luck +20 (Celica)
 
 - The main damage boosters.
-- Be sure to run Luck +20 only if Luna is already equipped.
+- \* Be sure to run Luck +20 only if Luna is already equipped.
 
 #### Vanguard Skills
 
