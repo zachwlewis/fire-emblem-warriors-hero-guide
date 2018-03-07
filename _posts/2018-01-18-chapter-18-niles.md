@@ -3,8 +3,6 @@ title: Chapter 18 — Niles
 layout: chapter
 ---
 
-_Chapter intro._
-
 ## Basic Info
 
 #### Stats at Level 130 Promoted
