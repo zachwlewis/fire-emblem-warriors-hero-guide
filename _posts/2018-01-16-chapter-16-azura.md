@@ -18,6 +18,7 @@ layout: chapter
 | Lck  |   129 |
 | Def  |    56 |
 | Res  |   106 |
+{: .table .table-sm .stats}
 
 Azura is, essentially, a walking Pegasus Knight in terms of stats. Her excellent Luck and Skill are basically all she needs to be a powerhouse offensively. Her strength is on the low end, but with a fully awakened Blessed Lance (or even a 5 star Hero Lance) that doesn't matter in the slightest. Her defense is poor even at max level, so be careful when facing physical enemies.
 
@@ -89,6 +90,7 @@ _Blessed Lance_
 | Awakening      | Lucina      |   X   |
 | Aegis          | Xander      |   X   |
 | Pavise         | Frederick   |   X   |
+{: .table .table-sm .skills}
 
 *my personal choices in italics*
 

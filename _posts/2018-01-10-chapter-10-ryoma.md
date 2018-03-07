@@ -17,6 +17,7 @@ Hi everyone! Today’s guide is on the High Prince of Hoshido, and the most popu
 | Lck  |   127 |
 | Def  |    96 |
 | Res  |    83 |
+{: .table .table-sm .stats}
 
 Ryoma has a really great stat spread, plain and simple. With over 100 points in all 3 of his relevant offensive stats (Strength, Skill, and Luck), a respectable health pool, and middle-of-the-pack bulk, there’s no significant area where you can really say Ryoma is weak. I suppose the only downside is that none of his stats are truly excellent aside from Speed (which is kind of a useless stat anyway), but that’s a small price to pay for a stat spread this good overall.
 
@@ -78,6 +79,7 @@ Pretty standard stuff here. `C4` is easily Ryoma’s best combo, but beyond that
 | Potent Potion  | Rowan       |   X   |   X   |
 | Solidarity     | Robin       |   X   |   X   |
 | Dracoshield    | Corrin      |   X   |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 

@@ -17,6 +17,7 @@ Hello and welcome to another FE Warriors character guide. This time, I’ll be c
 | Lck  |   121 |
 | Def  |    51 |
 | Res  |   149 |
+{: .table .table-sm .stats}
 
 Right off the bat we can see that Lissa, despite her insistence to the contrary, is incredibly delicate. 51 defense at level 130 is bad, no two ways about it. However, she sports impressive Mag, meaning that with **Topsy-Turvy**, she will melt many of the low-resistance physical attackers that are otherwise strong against her.  Similarly, she has a gigantic Resistance stat, allowing her to win slugfests with magical enemies even if she is using **Topsy-Turvy**. Aside from her luck, the rest of her stats are pretty middling.
 
@@ -82,6 +83,7 @@ As an aside, given that Lissa has by far the highest resistance of any pre-DLC a
 | Str +10       | Lissa       |       |   X   |
 | Solidarity    | Robin       |       |   X   |
 | Dracoshield   | Corrin      |       |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 

@@ -19,6 +19,7 @@ Hi everyone! Today’s guide will be on the drift king of Ylisse, Frederick.
 | Lck  |    51 |
 | Def  |   147 |
 | Res  |    47 |
+{: .table .table-sm .stats}
 
 Frederick is bulky as hell- at least on the physical side. 999 HP and 147 Defense is nothing to sneeze at. His offense is equally powerful, with high Strength and Skill. The rest of his stats are mediocre to bad. His resistance is practically nonexistent, his Luck is pitiful, and his speed is rather mediocre. The two big takeaways from this are: Frederick cannot be trusted to fight mages without getting shredded and Luck-based skill procs (most notably, Luna) are less effective.
 
@@ -87,6 +88,7 @@ Str/Def/Skill (+5 if A/A+, otherwise +3)
 | Solidarity     | Robin       |   X   |   X   |
 | Dracoshield    | Corrin      |   X   |   X   |
 | Resistance +10 | Elise       |   X   |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 

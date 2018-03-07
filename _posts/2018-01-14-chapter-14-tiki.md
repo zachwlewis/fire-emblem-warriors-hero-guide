@@ -19,6 +19,7 @@ Hi everyone! Today’s guide is on the only dragonstone user in the game, Tiki.
 | Lck  |    81 |     81 |
 | Def  |    76 |    121 |
 | Res  |    87 |    124 |
+{: .table .table-sm .stats}
 
 Aside from her Defense and Resistance, Human Tiki’s stats are just bad, plain and simple. Dragon Tiki on the other hand has solid offenses, and despite her very low HP pool, her Defense and Resistance are extraordinary. Tiki is the only character in the game that uses both her Strength and Magic to calculate her damage, so thankfully neither of those stats are wasted in any way. She also gets a minor movement boost (from 6 to 8), which is pretty neat too.
 
@@ -103,6 +104,7 @@ Str/Def/Luck (+5 if A/A+, +3 otherwise)
 | Pavise         | Frederick   |   X   |
 | Armored Blow   | Tiki        |   X   |
 | Speed +10      | Caeda       |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 

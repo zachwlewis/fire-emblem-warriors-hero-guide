@@ -21,6 +21,7 @@ Hi everyone! Today’s guide is on the youngest Nohrian royal siblings: Elise an
 | Lck  |   136 |
 | Def  |    53 |
 | Res  |   184 |
+{: .table .table-sm .stats}
 
 Elise is probably the best representation of a cleric in FE Warriors. Her Magic, Luck, Speed, and especially Resistance are all outstanding. However, her HP, Defense, Skill, and especially Strength are rather poor. Despite her relative frailty (except against magic wielders), her offensive capabilities are incredibly high.
 
@@ -54,6 +55,7 @@ Mag/Res/Speed (+5 with A/A+, otherwise +3)
 | Lck  |    92 |
 | Def  |    61 |
 | Res  |   171 |
+{: .table .table-sm .stats}
 
 Compared to his sister, Leo has a bit less raw offense, significantly less Luck, and a much higher HP pool. He is overall the bulkiest tome user (61 defense is still kinda bad though), but outside of Magic and Resistance his stat spread is overall a bit mediocre. He doesn’t manage to stand out in any significant way when compared to Elise or Robin aside from being the “safest” pick in terms of overall damage taken.
 
@@ -137,6 +139,7 @@ Literally the exact same thing as Elise, for the exact same reasons. His Skill i
 | Live To Serve  | Lianna      |   X   |   X   |
 | Solidarity     | Robin       |   X   |   X   |
 | Dracoshield    | Corrin      |   X   |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 
@@ -180,6 +183,7 @@ Luck +20 (Celica), Mag +10 (Leo), Def +10 (Hinoka), Live to Serve (Lianna), Soli
 | Solidarity     | Robin       |   X   |   X   |
 | Dracoshield    | Corrin      |   X   |   X   |
 | Live To Serve  | Lianna      |       |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 

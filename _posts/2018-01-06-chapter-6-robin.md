@@ -19,6 +19,7 @@ Hi everyone! Today’s guide will be on the scale-tipping tactician, Robin.
 | Lck  |    64 |
 | Def  |    57 |
 | Res  |   163 |
+{: .table .table-sm .stats}
 
 Robin has a bit of an interesting statline. Their Luck, Defense, and Speed are pretty pitiful, but their Resistance, Magic, and Skill are fantastic. Their Strength is also pretty decent, making them the only viable **Topsy-Turvy** mage. His high Skill works incredibly well with his `C1` as well, but more on that later.
 
@@ -84,6 +85,7 @@ You’re pretty much just loading up on Strong skills. I, V, and VI are your str
 | Luck +20       | Celica      |   X   |   X   |
 | Def +10        | Hinoka      |   X   |   X   |
 | Potent Potion  | Rowan       |   X   |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 

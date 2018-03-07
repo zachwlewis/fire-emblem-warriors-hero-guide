@@ -17,6 +17,7 @@ layout: chapter
 | Lck  |   103 |
 | Def  |   121 |
 | Res  |    78 |
+{: .table .table-sm .stats}
 
 Oboro's standout feature is her physical tankiness, sporting impressive HP and Defense alongside slightly below average Resistance. Her relevant offenses are solid as well, with high Skill and solid Luck and Strength. In an ideal world, she would swap her Luck with her Speed, but she's still a force to be reckoned with regardless.
 
@@ -85,6 +86,7 @@ Oboro's `C6` is her highest damage combo by far, so boost that. Take two slayers
 | Solidarity     | Robin       |   X   |   X   |
 | Dracoshield    | Corrin      |   X   |   X   |
 | Potent Potion  | Rowan       |       |   X   |
+{: .table .table-sm .skills}
 
 *my choices in italics*
 

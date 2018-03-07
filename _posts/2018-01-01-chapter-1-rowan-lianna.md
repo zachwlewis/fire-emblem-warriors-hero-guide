@@ -21,6 +21,7 @@ Hello and welcome to my first FE Warriors character guide. This time, I’ll be 
 | Lck  |   121 |
 | Def  |   106 |
 | Res  |   102 |
+{: .table .table-sm .stats}
 
 Rowan's stats are balanced across the board, which is to be expected from a protagonist. His bulk is very solid, He's got great skill, speed, and luck, and while his offenses are on the lower side when compared to the whole cast, they are still solid.
 
@@ -54,6 +55,7 @@ Str/Skill/Luck (+5 if A/A+, otherwise +3)
 | Lck  |   120 |
 | Def  |   102 |
 | Res  |   117 |
+{: .table .table-sm .stats}
 
 Lianna has a very similar stat spread to Rowan, losing some points in most stats for higher Resistance and Magic. As such, **Topsy-Turvy** is a must for her. Otherwise, she is extraordinarily well balanced.
 
@@ -132,6 +134,7 @@ Seeing as Lianna is basically the same as Rowan, their weapon builds are going t
 | Aegis         | Xander      |   X   |   X   |
 | Pavise        | Frederick   |   X   |   X   |
 | Sol           | Cordelia    |       |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 
@@ -172,6 +175,7 @@ Live to Serve (Lianna), Str +10 (Lianna), Aegis (Xander), Pavise (Frederick), So
 | Aegis         | Xander      |   X   |   X   |
 | Pavise        | Frederick   |   X   |   X   |
 | Sol           | Cordelia    |       |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 

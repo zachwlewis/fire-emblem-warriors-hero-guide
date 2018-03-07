@@ -19,6 +19,7 @@ Hi everyone! Today’s guide is on the Crown Prince of Nohr and world-record hol
 | Lck  |   137 |
 | Def  |   106 |
 | Res  |    67 |
+{: .table .table-sm .stats}
 
 Xander’s got a pretty nice stat spread. His offensive stats are not best in class, but they are quite solid, the standout being his 137 Luck. He’s also very bulky — his Resistance, while low, is still high enough to use Aegis (but only just, and only when maxed out). He’s got somewhat poor speed as well but this is not nearly as much of a weakness as it is in Conquest.
 
@@ -87,6 +88,7 @@ Def/Skl/Spe (+5 if A/A+, otherwise +3)
 | Potent Potion  | Rowan       |   X   |   X   |
 | Solidarity     | Robin       |   X   |   X   |
 | Dracoshield    | Corrin      |   X   |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 

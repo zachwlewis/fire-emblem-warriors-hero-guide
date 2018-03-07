@@ -21,6 +21,7 @@ Hi everyone! Today’s guide will be on the father/daughter dream team, Chrom an
 | Lck  |   103 |
 | Def  |   120 |
 | Res  |    89 |
+{: .table .table-sm .stats}
 
 Chrom has got a really nice, well balanced stat spread. He doesn’t have many wasted points in Magic, which means both his regular attacks and warrior specials/crits are rather potent without having to sacrifice much bulk. His Luck and Resistance are his lowest relevant stats, but even they are solid. There’s not much else to say really — he’s strong and durable.
 
@@ -54,6 +55,7 @@ Str/Skill/Speed (+5 if A/A+, otherwise +3)
 | Lck  |   134 |
 | Def  |    92 |
 | Res  |    87 |
+{: .table .table-sm .stats}
 
 Of all the characters who share movesets in this game, Chrom and Lucina are by far the most similar. Lucina’s stat spread is not that different from Chrom’s. Unfortunately, it’s not as good. What she does have is much higher luck and slightly more speed and magic, in exchange for… a little of everything else. This Luck lead she has over him is quite significant though, giving her Luna roughly 57% Def/Res reduction on hit compared to his roughly 48%. This means that her damage is actually higher than his so long as Luna is proccing.
 
@@ -133,6 +135,7 @@ She’s basically the same as Chrom, so it stands to reason that her weapon buil
 | Solidarity    | Robin       |       |   X   |
 | Dracoshield   | Corrin      |       |   X   |
 | Sol           | Cordelia    |       |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 
@@ -179,6 +182,7 @@ Str +10 (Lissa), Aegis (Xander), Pavise (Frederick), Solidarity (Robin), Dracosh
 | Solidarity    | Robin       |       |   X   |
 | Dracoshield   | Corrin      |       |   X   |
 | Sol           | Cordelia    |       |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 

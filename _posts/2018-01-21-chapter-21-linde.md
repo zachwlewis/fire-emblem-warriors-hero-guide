@@ -19,3 +19,4 @@ _Chapter intro._
 | Lck  |   143 |
 | Def  |    38 |
 | Res  |   129 |
+{: .table .table-sm .stats}

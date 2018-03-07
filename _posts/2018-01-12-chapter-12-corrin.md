@@ -19,6 +19,7 @@ Hi everyone! Today’s guide is on the shapeshifting main character of Fates, Co
 | Lck  |   123 |
 | Def  |   102 |
 | Res  |    96 |
+{: .table .table-sm .stats}
 
 Corrin has a very well rounded stat pool, to the point that there’s really not a whole lot to say about it. Every one of their stats is roughly average/above average with the only standout being their Luck. It’s not bad, but it’s not amazing either.
 
@@ -89,6 +90,7 @@ _Note that Corrin’s `C1` charges by holding the `X` button._
 | Solidarity     | Robin       |   X   |   X   |
 | Dracoshield    | Corrin      |   X   |   X   |
 | Live To Serve  | Lianna      |   X   |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 

@@ -21,6 +21,7 @@ Hi everyone! Today’s guide is on the first male and female lords of the series
 | Lck  |   137 |
 | Def  |   102 |
 | Res  |    98 |
+{: .table .table-sm .stats}
 
 Marth’s got a pretty good stat spread. He’s solidly bulky, has good Skill and especially Luck, and has pretty good Strength. His magic is poor, but it’s not like he needs it for anything. Overall there isn’t much more to say: It’s a good spread for a well-balanced character.
 
@@ -52,6 +53,7 @@ Paragon: doubles EXP gain. An aside, here: this is a great skill for grinding, b
 | Lck  |   129 |
 | Def  |    96 |
 | Res  |    96 |
+{: .table .table-sm .stats}
 
 What an interesting looking stat spread. Compared to Marth, the main difference is her much lower HP and her much higher Magic. In fact, of all the currently released sword units, she has the highest magic, making **Topsy-Turvy** a very appealing option for her. Aside from those two, her stats are all slightly lower than Marth’s, but not to a particularly noticeable degree.
 
@@ -132,6 +134,7 @@ _Note that `C1` gains 3 charges by using uncharged `C1`._
 | Potent Potion  | Rowan       |   X   |   X   |
 | Solidarity     | Robin       |   X   |   X   |
 | Dracoshield    | Corrin      |   X   |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 
@@ -174,6 +177,7 @@ Luck +20 (Celica), Str +10 (Lissa), Aegis (Xander), Pavise (Frederick), Solidari
 | Solidarity     | Robin       |   X   |   X   |
 | Dracoshield    | Corrin      |   X   |   X   |
 | Live To Serve  | Lianna      |   X   |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 

@@ -21,6 +21,7 @@ Hi everyone! Today’s guide will be on the trio of Pegasus Knights, Cordelia, H
 | Lck  |    92 |
 | Def  |    98 |
 | Res  |   161 |
+{: .table .table-sm .stats}
 
 Of the three Pegasus Knights, what makes Cordelia stand out is her Magic. She is equally viable as both a physical and magical unit, but using **Topsy-Turvy** is the easiest way to carve out a niche for her. Her heals, by extension, are the most potent of the three. As for the rest of her statline, it’s fairly well-balanced, with her skill being the high point and her Luck on the lower side. She sports massive Resistance as well, though this is a trait shared by her sisters-in-arms.
 
@@ -58,6 +59,7 @@ Res/Skill/Speed (+5 if A/A+, otherwise +3)
 | Lck  |   110 |
 | Def  |   103 |
 | Res  |   153 |
+{: .table .table-sm .stats}
 
 Despite having the lowest Resistance of the three, Hinoka’s claim to fame is her bulk, being overall the highest of the three Pegasi. She also has he highest Strength of the three. This makes her the best all-around brawler of the three and the best suited to handle physical threats.
 
@@ -95,6 +97,7 @@ Res/Skill/Speed (+5 if A/A+, otherwise +3)
 | Lck  |   146 |
 | Def  |    84 |
 | Res  |   168 |
+{: .table .table-sm .stats}
 
 Caeda is the most "traditional" Pegasus Knight in the game, with absurdly high Speed, Luck, and Resistance, but with low Strength and Defense. Thankfully, given her high Speed, she can carve out a niche for herself with an Awakening focused build. Her high Luck lets hher use Luna to amazing effect as well.
 
@@ -190,6 +193,7 @@ We’re going full Awakening with Caeda. As such, you can consider Crit+ over **
 | Live To Serve  | Lianna      |   X   |   X   |
 | Luck +20       | Celica      |   X   |   X   |
 | Sol            | Cordelia    |       |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 
@@ -232,6 +236,7 @@ Solidarity (Robin), Dracoshield (Corrin), Mag +10 (Leo), Luck +20 (Celica), Live
 | Aegis          | Xander      |   X   |   X   |
 | Live To Serve  | Lianna      |   X   |   X   |
 | Luck +20       | Celica      |   X   |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 
@@ -270,6 +275,7 @@ Solidarity (Robin), Dracoshield (Corrin), Str +10 (Lissa), Luck +20 (Celica), Li
 | Aegis          | Xander      |   X   |       |
 | Live To Serve  | Lianna      |   X   |   X   |
 | Luck +20       | Celica      |   X   |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 

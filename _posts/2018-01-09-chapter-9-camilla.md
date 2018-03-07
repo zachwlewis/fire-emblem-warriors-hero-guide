@@ -19,6 +19,7 @@ Hi everyone! Today’s guide is on the eldest royal sister of Nohr, and our only
 | Lck  |    68 |
 | Def  |   120 |
 | Res  |    54 |
+{: .table .table-sm .stats}
 
 Poor Luck aside, Camilla is an offensive powerhouse, sporting great Strength with surprisingly high magic. Her Skill is pretty high as well, along with her Speed (although Speed is a relatively bad stat). She’s decently physically bulky as well, being by far the best flying physical tank, though her Res is rather poor.
 
@@ -88,6 +89,7 @@ Camilla has so many good combos that it’s really hard to choose which to boost
 | Potent Potion  | Rowan       |   X   |   X   |
 | Solidarity     | Robin       |   X   |   X   |
 | Dracoshield    | Corrin      |   X   |   X   |
+{: .table .table-sm .skills}
 
 #### Mandatory Skills
 
