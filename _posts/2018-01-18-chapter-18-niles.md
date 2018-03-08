@@ -91,8 +91,8 @@ My choices in **bold**, locked skills in _italics_.
 | Trample        | Camilla     | **M** | **M** |
 | Luck +20\*     | Celica      | **M** | **M** |
 | Armored Blow   | Tiki        | **S** |   –   |
-| Pass           | Lyn         | **S** |   –   |
-| Lethality      | Niles       |   O   |   –   |
+| Pass           | Lyn         |   O   |   –   |
+| Lethality      | Niles       | **S** |   –   |
 | Solidarity     | Robin       |   O   | **S** |
 | Awakening      | Lucina      |   O   |   –   |
 | Quick Wit      | Linde       |   O   |   –   |
@@ -109,7 +109,7 @@ Astra (Ryoma), Luna (Chrom), Trample (Camilla), Luck +20 (Celica)
 
 #### Vanguard Skills
 
-_Armored Blow (Tiki)_, _Pass (Lyn)_, Lethality (Niles), Solidarity (Robin), Awakening (Lucina), Quick Wit (Linde)
+_Armored Blow (Tiki)_, Pass (Lyn), _Lethality (Niles)_, Solidarity (Robin), Awakening (Lucina), Quick Wit (Linde)
 
 - Armored Blow and Pass help to negate the risks of Armor Strike (and are just generally very useful skills). Armored Blow is damn near essential in order to use `C1`.
 - Lethality is pretty unreliable on Niles due to his atrocious Luck stat. However, a chance for 400% damage on crit is certainly worth considering, and he gets the skill for cheap too since it's his personal.
