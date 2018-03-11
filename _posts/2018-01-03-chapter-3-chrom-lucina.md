@@ -77,7 +77,8 @@ Str/Skill/Speed (+5 if A/A+, otherwise +3)
 
 ## Moveset
 
-_Note that `C1` charges by holding `X`._
+Note that `C1` charges by holding `X`.
+{:.alert .alert-info}
 
 **`C1`:** Charged: The unit lunges forward, dealing a small amount of damage and breaking through guards. Fully charged: The unit lunges forward, unleashing a horizontal energy wave that does moderate damage to enemies it passes through over a long distance. Full disclosure: I am not a fan of charging `C1`s. The drawbacks of standing still for even a few seconds to charge far outweigh the benefits in my eyes. To this combo’s credit, it is their longest range attack by far, but that isn’t enough to make it worth using in my eyes.
 
@@ -121,20 +122,20 @@ She’s basically the same as Chrom, so it stands to reason that her weapon buil
 
 | Skill         | Hero        |  PC   |  AI   |
 | :------------ | :---------- | :---: | :---: |
-| **Astra**     | **Ryoma**   | **X** | **X** |
-| **Luna**      | **Chrom**   | **X** | **X** |
-| **Trample**   | **Camilla** | **X** | **X** |
-| Armored Blow  | Tiki        |   X   |       |
-| Pass          | Lyn         |   X   |       |
-| Str +10       | Lissa       |   X   |   X   |
-| Luck +20      | Celica      |   X   |       |
-| Awakening     | Lucina      |   X   |       |
-| Aegis         | Xander      |   X   |   X   |
-| Pavise        | Frederick   |   X   |   X   |
-| Potent Potion | Rowan       |   X   |   X   |
-| Solidarity    | Robin       |       |   X   |
-| Dracoshield   | Corrin      |       |   X   |
-| Sol           | Cordelia    |       |   X   |
+| Astra         | Ryoma       | **M** | **M** |
+| Luna          | Chrom       | **M** | **M** |
+| Trample       | Camilla     | **M** | **M** |
+| Armored Blow  | Tiki        |   O   |   –   |
+| Pass          | Lyn         |   O   |   –   |
+| Str +10       | Lissa       |   O   |   O   |
+| Luck +20      | Celica      |   O   |   –   |
+| Awakening     | Lucina      |   O   |   –   |
+| Aegis         | Xander      |   O   |   O   |
+| Pavise        | Frederick   |   O   |   O   |
+| Potent Potion | Rowan       |   O   |   O   |
+| Solidarity    | Robin       |   –   |   O   |
+| Dracoshield   | Corrin      |   –   |   O   |
+| Sol           | Cordelia    |   –   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
@@ -168,20 +169,20 @@ Str +10 (Lissa), Aegis (Xander), Pavise (Frederick), Solidarity (Robin), Dracosh
 
 | Skill         | Hero        |  PC   |  AI   |
 | :------------ | :---------- | :---: | :---: |
-| **Astra**     | **Ryoma**   | **X** | **X** |
-| **Luna**      | **Chrom**   | **X** | **X** |
-| **Trample**   | **Camilla** | **X** | **X** |
-| Armored Blow  | Tiki        |   X   |       |
-| Pass          | Lyn         |   X   |       |
-| Str +10       | Lissa       |   X   |   X   |
-| Luck +20      | Celica      |   X   |       |
-| Awakening     | Lucina      |   X   |       |
-| Aegis         | Xander      |   X   |   X   |
-| Pavise        | Frederick   |   X   |   X   |
-| Potent Potion | Rowan       |   X   |   X   |
-| Solidarity    | Robin       |       |   X   |
-| Dracoshield   | Corrin      |       |   X   |
-| Sol           | Cordelia    |       |   X   |
+| Astra         | Ryoma       | **M** | **M** |
+| Luna          | Chrom       | **M** | **M** |
+| Trample       | Camilla     | **M** | **M** |
+| Armored Blow  | Tiki        |   O   |   –   |
+| Pass          | Lyn         |   O   |   –   |
+| Str +10       | Lissa       |   O   |   O   |
+| Luck +20      | Celica      |   O   |   –   |
+| Awakening     | Lucina      |   O   |   –   |
+| Aegis         | Xander      |   O   |   O   |
+| Pavise        | Frederick   |   O   |   O   |
+| Potent Potion | Rowan       |   O   |   O   |
+| Solidarity    | Robin       |   –   |   O   |
+| Dracoshield   | Corrin      |   –   |   O   |
+| Sol           | Cordelia    |   –   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills

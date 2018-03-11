@@ -3,7 +3,6 @@ title: Chapter 16 — Azura
 layout: chapter
 ---
 
-
 ## Basic info
 
 #### Stats at Level 130 Promoted
@@ -58,7 +57,8 @@ Str/Skill/Speed (+5 if A/A+, otherwise +3)
 
 ## Weapon Skills
 
-_My personal choices in italics._
+My personal choices in italics.
+{:.alert .alert-info}
 
 _Blessed Lance_
 
@@ -77,32 +77,30 @@ _Blessed Lance_
 
 | Skill          | Hero        |  PC   |
 | :------------- | :---------- | :---: |
-| **Astra**      | **Ryoma**   | **X** |
-| **Luna**       | **Chrom**   | **X** |
-| **Trample**    | **Camilla** | **X** |
-| **Luck +20**   | Celica      | **X** |
-| Armored Blow   | Tiki        |   X   |
-| Pass           | Lyn         |   X   |
-| Lethality      | Niles       |   X   |
-| Counter        | Orobo       |   X   |
-| Solidarity     | Robin       |   X   |
-| Dracoshield    | Corrin      |   X   |
-| Awakening      | Lucina      |   X   |
-| Aegis          | Xander      |   X   |
-| Pavise         | Frederick   |   X   |
+| Astra          | Ryoma       | **M** |
+| Luna           | Chrom       | **M** |
+| Trample        | Camilla     | **M** |
+| Luck +20       | Celica      | **M** |
+| Armored Blow   | Tiki        | **S** |
+| Pass           | Lyn         |   O   |
+| Lethality      | Niles       | **S** |
+| Counter        | Orobo       |   O   |
+| Solidarity     | Robin       |   O   |
+| Dracoshield    | Corrin      |   O   |
+| Awakening      | Lucina      |   O   |
+| Aegis          | Xander      |   O   |
+| Pavise         | Frederick   |   O   |
 {: .table .table-sm .skills}
-
-*my personal choices in italics*
 
 #### Mandatory Skills
 
-Astra (Ryoma), Luna (Chrom), Trample (Camilla), Luck +20 (Celica)
+**Astra (Ryoma)**, **Luna (Chrom)**, **Trample (Camilla)**, **Luck +20 (Celica)**
 
 - The big 4. The only note to make here is that Luck +20 doesn't do much for you unless Luna is already equipped.
 
 #### Vanguard Skills
 
-*Armored Blow (Tiki)*, Pass (Lyn), *Lethality (Niles)*, Counter (Oboro), Solidarity (Robin), Dracoshield (Corrin), Awakening (Lucina), Aegis (Xander), Pavise (Frederick)
+**Armored Blow (Tiki)**, Pass (Lyn), **Lethality (Niles)**, Counter (Oboro), Solidarity (Robin), Dracoshield (Corrin), Awakening (Lucina), Aegis (Xander), Pavise (Frederick)
 
 - Armored Blow and Pass help to negate the risks of **Armor Strike** (and are just generally very useful skills). Personally, I would at least run Armored Blow should you choose to run **Armor Strike**.
 - Lethality has a lot of potential for boosting damage on crit, which couples well with **Armor Strike** and Luck +20.

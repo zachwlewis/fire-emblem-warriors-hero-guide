@@ -76,19 +76,19 @@ Camilla has so many good combos that it’s really hard to choose which to boost
 
 | Skill          | Hero        |  PC   |  AI   |
 | :------------- | :---------- | :---: | :---: |
-| **Astra**      | **Ryoma**   | **X** | **X** |
-| **Luna**       | **Chrom**   | **X** | **X** |
-| **Trample**    | **Camilla** | **X** | **X** |
-| Armored Blow   | Tiki        |   X   |       |
-| Pass           | Lyn         |   X   |       |
-| Luck +20       | Celica      |   X   |   X   |
-| Str + 10       | Lissa       |   X   |   X   |
-| Res +10        | Elise       |   X   |   X   |
-| Skill +10      | Takumi      |   X   |       |
-| Awakening      | Lucina      |   X   |       |
-| Potent Potion  | Rowan       |   X   |   X   |
-| Solidarity     | Robin       |   X   |   X   |
-| Dracoshield    | Corrin      |   X   |   X   |
+| Astra          | Ryoma       | **M** | **M** |
+| Luna           | Chrom       | **M** | **M** |
+| Trample        | Camilla     | **M** | **M** |
+| Armored Blow   | Tiki        |   O   |   –   |
+| Pass           | Lyn         |   O   |   –   |
+| Luck +20       | Celica      |   O   |   O   |
+| Str + 10       | Lissa       |   O   |   O   |
+| Res +10        | Elise       |   O   |   O   |
+| Skill +10      | Takumi      |   O   |   –   |
+| Awakening      | Lucina      |   O   |   –   |
+| Potent Potion  | Rowan       |   O   |   O   |
+| Solidarity     | Robin       |   O   |   O   |
+| Dracoshield    | Corrin      |   O   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
@@ -119,4 +119,3 @@ Luck +20 (Celica), Str +10 (Lissa), Res +10 (Elise), Potent Potion (Rowan), Soli
 ## Conclusion
 
 Camilla is an incredibly unique and powerful unit, being the only axe flier in the game. Stat-wise, she is effectively a flying tank, if that tank had really bad Luck and died in 4 hits to an archer. Her moveset is incredible — with Astra — and she has an answer to any situation that arises. She crushes crowds, brutalizes officers, and supports her team by flying them wherever they need to go. She’s a great pick for nearly any map, so long as there aren’t too many archers or Falchion users.
-

@@ -76,20 +76,20 @@ _Note that Corrin’s `C1` charges by holding the `X` button._
 
 | Skill          | Hero        |  PC   |  AI   |
 | :------------- | :---------- | :---: | :---: |
-| **Astra**      | **Ryoma**   | **X** | **X** |
-| **Luna**       | **Chrom**   | **X** | **X** |
-| **Trample**    | **Camilla** | **X** | **X** |
-| Armored Blow   | Tiki        |   X   |       |
-| Pass           | Lyn         |   X   |       |
-| Luck +20       | Celica      |   X   |   X   |
-| Str + 10       | Lissa       |   X   |   X   |
-| Mag +10        | Leo         |   X   |   X   |
-| Skill +10      | Takumi      |   X   |       |
-| Aegis          | Xander      |   X   |   X   |
-| Pavise         | Frederick   |   X   |   X   |
-| Solidarity     | Robin       |   X   |   X   |
-| Dracoshield    | Corrin      |   X   |   X   |
-| Live To Serve  | Lianna      |   X   |   X   |
+| Astra          | Ryoma       | **M** | **M** |
+| Luna           | Chrom       | **M** | **M** |
+| Trample        | Camilla     | **M** | **M** |
+| Armored Blow   | Tiki        |   O   |   –   |
+| Pass           | Lyn         |   O   |   –   |
+| Luck +20       | Celica      |   O   |   O   |
+| Str + 10       | Lissa       |   O   |   O   |
+| Mag +10        | Leo         |   O   |   O   |
+| Skill +10      | Takumi      |   O   |   –   |
+| Aegis          | Xander      |   O   |   O   |
+| Pavise         | Frederick   |   O   |   O   |
+| Solidarity     | Robin       |   O   |   O   |
+| Dracoshield    | Corrin      |   O   |   O   |
+| Live To Serve  | Lianna      |   O   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
@@ -119,4 +119,3 @@ Luck +20 (Celica), Str +10 (Lissa), Mag +10 (Leo), Aegis (Xander), Pavise (Frede
 ## Conclusion
 
 I think every single character in this game is a viable choice and worth the time if you find them fun. With that said, Corrin is… not as good as a lot of other units, unfortunately. The reason being that they just fail to stand out in any way, and their moveset is rather janky — as I said above, they NEED Astra to function on the level of other characters. On top of this, they are the only sword unit that has a weakness to **Dracoslayer**, and it is unfortunately one of the only two Weaknesseses that the enemy will actually exploit (the other being Winglsayer). It’s relatively minor, but it’s an extra consideration you have to make for a sword unit that you don’t have to make for literally any other, and Corrin doesn’t have anything in particular over the others to make up for it. To wrap it up, I’ll say this: If you like Corrin as a character, or think their moveset is cool looking (I certainly think it’s cool), feel free to invest in them. With Astra, they’re perfectly usable so long as you keep an eye out for Chrom, Lucina, and Marth. If you don’t have any particular attachment to Corrin, feel free to pass on them. Or, alternatively, use them as a pair up buddy for Tiki, who really appreciates the Str/Mag/Skill boosts and the Dual Strike slayer-skill one-shots that they give her.
-

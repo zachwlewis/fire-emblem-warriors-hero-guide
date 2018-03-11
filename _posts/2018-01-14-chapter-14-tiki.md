@@ -92,18 +92,18 @@ Str/Def/Luck (+5 if A/A+, +3 otherwise)
 
 | Skill          | Hero        |  PC   |
 | :------------- | :---------- | :---: |
-| **Astra**      | **Ryoma**   | **X** |
-| **Luna**       | **Chrom**   | **X** |
-| **Trample**    | **Camilla** | **X** |
-| **Awakening**  | Lucina      | **X** |
-| Luck +20       | Celica      |   X   |
-| Skill +10      | Takumi      |   X   |
-| Str + 10       | Lissa       |   X   |
-| Mag +10        | Leo         |   X   |
-| Aegis          | Xander      |   X   |
-| Pavise         | Frederick   |   X   |
-| Armored Blow   | Tiki        |   X   |
-| Speed +10      | Caeda       |   X   |
+| Astra          | Ryoma       | **M** |
+| Luna           | Chrom       | **M** |
+| Trample        | Camilla     | **M** |
+| Awakening      | Lucina      | **M** |
+| Luck +20       | Celica      |   O   |
+| Skill +10      | Takumi      |   O   |
+| Str + 10       | Lissa       |   O   |
+| Mag +10        | Leo         |   O   |
+| Aegis          | Xander      |   O   |
+| Pavise         | Frederick   |   O   |
+| Armored Blow   | Tiki        |   O   |
+| Speed +10      | Caeda       |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
@@ -128,4 +128,3 @@ Luck +20 (Celica), Skill +10 (Takumi), Str +10 (Lissa), Mag +10 (Leo), Aegis (Xa
 ## Conclusion
 
 What is there to say about Tiki, other than she’s pretty easily one of the best characters in the game? She’s a bit painful to play as early on in a battle, but once she gets the ball rolling, she’s an unstoppable juggernaut. She can easily hold her Warrior gauge until she needs to convert it, too — don’t feel pressured to keep it running if you don’t have to. She hits incredibly hard and is absurdly tanky, and has great matchups against basically any enemy. With that said, Tiki’s #1 flaw is that if you deploy her, you’re pretty much forced to play her. She can’t do anything as an AI unit, so it’s harder to take advantage of character swapping if she is on the team. She can be kept safe in the back of a Pair Up though, and she enjoys being paired with a mounted character for extra movement, or Corrin for the near perfect stat boosts they provide her. Tiki is absolutely worth investment if you have not invested in her already.
-

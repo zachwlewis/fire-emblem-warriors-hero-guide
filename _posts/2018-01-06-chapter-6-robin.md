@@ -72,19 +72,19 @@ You’re pretty much just loading up on Strong skills. I, V, and VI are your str
 
 | Skill          | Hero        |  PC   |  AI   |
 | :------------- | :---------- | :---: | :---: |
-| **Astra**      | **Ryoma**   | **X** | **X** |
-| **Luna**       | **Chrom**   | **X** | **X** |
-| **Trample**    | **Camilla** | **X** | **X** |
-| Armored Blow   | Tiki        |   X   |       |
-| Pass           | Lyn         |   X   |       |
-| Mag +10        | Leo         |   X   |   X   |
-| Str + 10       | Lissa       |   X   |   X   |
-| Skill +10      | Takumi      |   X   |       |
-| Solidarity     | Robin       |   X   |   X   |
-| Dracoshield    | Corrin      |   X   |   X   |
-| Luck +20       | Celica      |   X   |   X   |
-| Def +10        | Hinoka      |   X   |   X   |
-| Potent Potion  | Rowan       |   X   |   X   |
+| Astra          | Ryoma       | **M** | **M** |
+| Luna           | Chrom       | **M** | **M** |
+| Trample        | Camilla     | **M** | **M** |
+| Armored Blow   | Tiki        |   O   |   –   |
+| Pass           | Lyn         |   O   |   –   |
+| Mag +10        | Leo         |   O   |   O   |
+| Str + 10       | Lissa       |   O   |   O   |
+| Skill +10      | Takumi      |   O   |   –   |
+| Solidarity     | Robin       |   O   |   O   |
+| Dracoshield    | Corrin      |   O   |   O   |
+| Luck +20       | Celica      |   O   |   O   |
+| Def +10        | Hinoka      |   O   |   O   |
+| Potent Potion  | Rowan       |   O   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills

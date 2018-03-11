@@ -74,20 +74,20 @@ Def/Skl/Spe (+5 if A/A+, otherwise +3)
 
 | Skill          | Hero        |  PC   |  AI   |
 | :------------- | :---------- | :---: | :---: |
-| **Astra**      | **Ryoma**   | **X** | **X** |
-| **Luna**       | **Chrom**   | **X** | **X** |
-| **Trample**    | **Camilla** | **X** | **X** |
-| Armored Blow   | Tiki        |   X   |       |
-| Pass           | Lyn         |   X   |       |
-| Luck +20       | Celica      |   X   |   X   |
-| Aegis          | Xander      |   X   |   X   |
-| Pavise         | Frederick   |   X   |   X   |
-| Str + 10       | Lissa       |   X   |   X   |
-| Skill +10      | Takumi      |   X   |       |
-| Res +10        | Elise       |   X   |   X   |
-| Potent Potion  | Rowan       |   X   |   X   |
-| Solidarity     | Robin       |   X   |   X   |
-| Dracoshield    | Corrin      |   X   |   X   |
+| Astra          | Ryoma       | **M** | **M** |
+| Luna           | Chrom       | **M** | **M** |
+| Trample        | Camilla     | **M** | **M** |
+| Armored Blow   | Tiki        |   O   |   –   |
+| Pass           | Lyn         |   O   |   –   |
+| Luck +20       | Celica      |   O   |   O   |
+| Aegis          | Xander      |   O   |   O   |
+| Pavise         | Frederick   |   O   |   O   |
+| Str + 10       | Lissa       |   O   |   O   |
+| Skill +10      | Takumi      |   O   |   –   |
+| Res +10        | Elise       |   O   |   O   |
+| Potent Potion  | Rowan       |   O   |   O   |
+| Solidarity     | Robin       |   O   |   O   |
+| Dracoshield    | Corrin      |   O   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
@@ -117,4 +117,3 @@ Luck +20 (Celica), Aegis (Xander), Pavise (Frederick), Str +10 (Lissa), Res +10 
 ## Conclusion
 
 Xander is, all told, a hilariously fun character to play. His horse does things no horse should be able to, and mindlessly spamming `X` to grind your foes to nothing is so entertaining. Xander struggles most when his mobility is limited, and excels at crowd clearing. When fighting officers, he is best in single combat, as it is much easier to juggle one officer in the corner than it is to take on multiple at once, given the forward momentum he has on most of his combos. Overall, Xander is a bit of a one trick pony, but he does that one trick very well.
-

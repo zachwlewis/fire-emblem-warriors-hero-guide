@@ -75,30 +75,29 @@ Oboro's `C6` is her highest damage combo by far, so boost that. Take two slayers
 
 | Skill          | Hero        |  PC   |  AI   |
 | :------------- | :---------- | :---: | :---: |
-| **Astra**      | **Ryoma**   | **X** | **X** |
-| **Luna**       | **Chrom**   | **X** | **X** |
-| **Trample**    | **Camilla** | **X** | **X** |
-| **Luck +20**   | Celica      | **X** | **X** |
-| Armored Blow   | Tiki        |   X   |       |
-| Pass           | Lyn         |   X   |       |
-| Lethality      | Niles       |   X   |       |
-| Counter        | Orobo       |   X   |       |
-| Solidarity     | Robin       |   X   |   X   |
-| Dracoshield    | Corrin      |   X   |   X   |
-| Potent Potion  | Rowan       |       |   X   |
+| Astra          | Ryoma       | **M** | **M** |
+| Luna           | Chrom       | **M** | **M** |
+| Trample        | Camilla     | **M** | **M** |
+| Luck +20       | Celica      | **M** | **M** |
+| Armored Blow   | Tiki        | **S** |   –   |
+| Pass           | Lyn         |   O   |   –   |
+| Lethality      | Niles       | **S** |   –   |
+| Counter        | Orobo       |   O   |   –   |
+| Solidarity     | Robin       |   O   | **S** |
+| Dracoshield    | Corrin      |   O   | **S** |
+| Potent Potion  | Rowan       |   –   |   O   |
 {: .table .table-sm .skills}
 
-*my choices in italics*
 
 #### Mandatory Skills
 
-Astra (Ryoma), Luna (Chrom), Trample (Camilla), Luck +20 (Celica)
+**Astra (Ryoma)**, **Luna (Chrom)**, **Trample (Camilla)**, **Luck +20 (Celica)**
 
 - The big 4. The only note to make here is that Luck +20 doesn't do much for you unless Luna is already equipped.
 
 #### Vanguard Skills
 
-*Armored Blow (Tiki)*, Pass (Lyn), *Lethality (Niles)*, Counter (Oboro), Solidarity (Robin), Dracoshield (Corrin)
+**Armored Blow (Tiki)**, Pass (Lyn), **Lethality (Niles)**, Counter (Oboro), Solidarity (Robin), Dracoshield (Corrin)
 
 - Armored Blow and Pass help to negate the risks of **Armor Strike** (and are just generally very useful skills). Personally, I would at least run Armored Blow should you choose to run **Armor Strike**.
 - Lethality has a lot of potential for boosting damage on crit, which couples well with **Armor Strike** and Luck +20.
@@ -107,7 +106,7 @@ Astra (Ryoma), Luna (Chrom), Trample (Camilla), Luck +20 (Celica)
 
 #### Support Skills
 
-*Solidarity (Robin), Dracoshield (Corrin)*, Potent Potion (Rowan)
+**Solidarity (Robin)**, **Dracoshield (Corrin)**, Potent Potion (Rowan)
 
 - Oboro is more likely to be a pair up buddy as a green square unit, so Solidarity and Dracoshield are more valuable for her.
 - Alternatively, you could choose to run Potent Potion to allow her to be a backup healer.

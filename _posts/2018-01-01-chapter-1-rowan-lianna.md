@@ -123,17 +123,17 @@ Seeing as Lianna is basically the same as Rowan, their weapon builds are going t
 
 | Skill         | Hero        |  PC   |  AI   |
 | :------------ | :---------- | :---: | :---: |
-| **Astra**     | **Ryoma**   | **X** | **X** |
-| **Luna**      | **Chrom**   | **X** | **X** |
-| **Trample**   | **Camilla** | **X** | **X** |
-| Armored Blow  | Tiki        |   X   |       |
-| Pass          | Lyn         |   X   |       |
-| Luck +20      | Celica      |   X   |       |
-| Str +10       | Lissa       |   X   |   X   |
-| Live To Serve | Lianna      |   X   |   X   |
-| Aegis         | Xander      |   X   |   X   |
-| Pavise        | Frederick   |   X   |   X   |
-| Sol           | Cordelia    |       |   X   |
+| Astra         | Ryoma       | **M** | **M** |
+| Luna          | Chrom       | **M** | **M** |
+| Trample       | Camilla     | **M** | **M** |
+| Armored Blow  | Tiki        |   O   |   –   |
+| Pass          | Lyn         |   O   |   –   |
+| Luck +20      | Celica      |   O   |   –   |
+| Str +10       | Lissa       |   O   |   O   |
+| Live To Serve | Lianna      |   O   |   O   |
+| Aegis         | Xander      |   O   |   O   |
+| Pavise        | Frederick   |   O   |   O   |
+| Sol           | Cordelia    |   –   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
@@ -164,17 +164,17 @@ Live to Serve (Lianna), Str +10 (Lianna), Aegis (Xander), Pavise (Frederick), So
 
 | Skill         | Hero        |  PC   |  AI   |
 | :------------ | :---------- | :---: | :---: |
-| **Astra**     | **Ryoma**   | **X** | **X** |
-| **Luna**      | **Chrom**   | **X** | **X** |
-| **Trample**   | **Camilla** | **X** | **X** |
-| Armored Blow  | Tiki        |   X   |       |
-| Pass          | Lyn         |   X   |       |
-| Luck +20      | Celica      |   X   |       |
-| Mag +10       | Leo         |   X   |   X   |
-| Live To Serve | Lianna      |   X   |   X   |
-| Aegis         | Xander      |   X   |   X   |
-| Pavise        | Frederick   |   X   |   X   |
-| Sol           | Cordelia    |       |   X   |
+| Astra         | Ryoma       | **M** | **M** |
+| Luna          | Chrom       | **M** | **M** |
+| Trample       | Camilla     | **M** | **M** |
+| Armored Blow  | Tiki        |   O   |   –   |
+| Pass          | Lyn         |   O   |   –   |
+| Luck +20      | Celica      |   O   |   –   |
+| Mag +10       | Leo         |   O   |   O   |
+| Live To Serve | Lianna      |   O   |   O   |
+| Aegis         | Xander      |   O   |   O   |
+| Pavise        | Frederick   |   O   |   O   |
+| Sol           | Cordelia    |   –   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills

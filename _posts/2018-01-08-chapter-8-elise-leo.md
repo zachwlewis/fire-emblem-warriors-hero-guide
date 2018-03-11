@@ -127,18 +127,18 @@ Literally the exact same thing as Elise, for the exact same reasons. His Skill i
 
 | Skill          | Hero        |  PC   |  AI   |
 | :------------- | :---------- | :---: | :---: |
-| **Astra**      | **Ryoma**   | **X** | **X** |
-| **Luna**       | **Chrom**   | **X** | **X** |
-| **Trample**    | **Camilla** | **X** | **X** |
-| Armored Blow   | Tiki        |   X   |       |
-| Pass           | Lyn         |   X   |       |
-| Luck +20       | Celica      |   X   |   X   |
-| Mag +10        | Leo         |   X   |   X   |
-| Def +10        | Hinoka      |   X   |   X   |
-| Skill +10      | Takumi      |   X   |       |
-| Live To Serve  | Lianna      |   X   |   X   |
-| Solidarity     | Robin       |   X   |   X   |
-| Dracoshield    | Corrin      |   X   |   X   |
+| Astra          | Ryoma       | **M** | **M** |
+| Luna           | Chrom       | **M** | **M** |
+| Trample        | Camilla     | **M** | **M** |
+| Armored Blow   | Tiki        |   O   |   –   |
+| Pass           | Lyn         |   O   |   –   |
+| Luck +20       | Celica      |   O   |   O   |
+| Mag +10        | Leo         |   O   |   O   |
+| Def +10        | Hinoka      |   O   |   O   |
+| Skill +10      | Takumi      |   O   |   –   |
+| Live To Serve  | Lianna      |   O   |   O   |
+| Solidarity     | Robin       |   O   |   O   |
+| Dracoshield    | Corrin      |   O   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
@@ -170,19 +170,19 @@ Luck +20 (Celica), Mag +10 (Leo), Def +10 (Hinoka), Live to Serve (Lianna), Soli
 
 | Skill          | Hero        |  PC   |  AI   |
 | :------------- | :---------- | :---: | :---: |
-| **Astra**      | **Ryoma**   | **X** | **X** |
-| **Luna**       | **Chrom**   | **X** | **X** |
-| **Trample**    | **Camilla** | **X** | **X** |
-| Armored Blow   | Tiki        |   X   |       |
-| Pass           | Lyn         |   X   |       |
-| Luck +20       | Celica      |   X   |   X   |
-| Mag +10        | Leo         |   X   |   X   |
-| Def +10        | Hinoka      |   X   |   X   |
-| Skill +10      | Takumi      |   X   |       |
-| Potent Potion  | Rowan       |   X   |   X   |
-| Solidarity     | Robin       |   X   |   X   |
-| Dracoshield    | Corrin      |   X   |   X   |
-| Live To Serve  | Lianna      |       |   X   |
+| Astra          | Ryoma       | **M** | **M** |
+| Luna           | Chrom       | **M** | **M** |
+| Trample        | Camilla     | **M** | **M** |
+| Armored Blow   | Tiki        |   O   |   –   |
+| Pass           | Lyn         |   O   |   –   |
+| Luck +20       | Celica      |   O   |   O   |
+| Mag +10        | Leo         |   O   |   O   |
+| Def +10        | Hinoka      |   O   |   O   |
+| Skill +10      | Takumi      |   O   |   –   |
+| Potent Potion  | Rowan       |   O   |   O   |
+| Solidarity     | Robin       |   O   |   O   |
+| Dracoshield    | Corrin      |   O   |   O   |
+| Live To Serve  | Lianna      |   –   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
@@ -213,4 +213,3 @@ Luck +20 (Celica), Mag +10 (Leo), Def +10 (Hinoka), Live to Serve (Lianna), Soli
 ## Conclusion
 
 Elise and Leo are amazing characters. They combine the amazing mage moveset with the utility of having a mount. In my opinion, if you only want to invest in one, invest in Elise. Her offensive capabilities are just way higher than his. Even with Luck +20 and a +Luck A support, his Luna (and by proxy, his non-crit damage) does not match Elise’s, even if she doesn’t have Luck boosts. The roughly 20 points of Skill he has over her mean a lot less than the almost 40 Luck she has over him. His only true benefit is his bulk, but with 50 Defense he’s still going to get clapped by physical attackers. However, although I just bagged on Leo a bit, he is still a great character that is more than viable if you like him more than Elise (like I do).
-

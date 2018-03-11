@@ -76,18 +76,18 @@ Str/Def/Skill (+5 if A/A+, otherwise +3)
 
 | Skill          | Hero        |  PC   |  AI   |
 | :------------- | :---------- | :---: | :---: |
-| **Astra**      | **Ryoma**   | **X** | **X** |
-| **Luna**       | **Chrom**   | **X** | **X** |
-| **Trample**    | **Camilla** | **X** | **X** |
-| Armored Blow   | Tiki        |   X   |       |
-| Pass           | Lyn         |   X   |       |
-| Str +10        | Lissa       |   X   |   X   |
-| Potent Potion  | Rowan       |   X   |   X   |
-| Awakening      | Lucina      |   X   |       |
-| Luck +20       | Celica      |   X   |       |
-| Solidarity     | Robin       |   X   |   X   |
-| Dracoshield    | Corrin      |   X   |   X   |
-| Resistance +10 | Elise       |   X   |   X   |
+| Astra          | Ryoma       | **M** | **M** |
+| Luna           | Chrom       | **M** | **M** |
+| Trample        | Camilla     | **M** | **M** |
+| Armored Blow   | Tiki        |   O   |   –   |
+| Pass           | Lyn         |   O   |   –   |
+| Str +10        | Lissa       |   O   |   O   |
+| Potent Potion  | Rowan       |   O   |   O   |
+| Awakening      | Lucina      |   O   |   –   |
+| Luck +20       | Celica      |   O   |   –   |
+| Solidarity     | Robin       |   O   |   O   |
+| Dracoshield    | Corrin      |   O   |   O   |
+| Resistance +10 | Elise       |   O   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills

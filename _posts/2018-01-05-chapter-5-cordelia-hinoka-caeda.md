@@ -180,19 +180,19 @@ We’re going full Awakening with Caeda. As such, you can consider Crit+ over **
 
 | Skill          | Hero        |  PC   |  AI   |
 | :------------- | :---------- | :---: | :---: |
-| **Astra**      | **Ryoma**   | **X** | **X** |
-| **Luna**       | **Chrom**   | **X** | **X** |
-| **Trample**    | **Camilla** | **X** | **X** |
-| Armored Blow   | Tiki        |   X   |       |
-| Pass           | Lyn         |   X   |       |
-| Mag +10        | Leo         |   X   |   X   |
-| Dracoshield    | Corrin      |   X   |   X   |
-| Solidarity     | Robin       |   X   |   X   |
-| Pavise         | Frederick   |   X   |   X   |
-| Aegis          | Xander      |   X   |   X   |
-| Live To Serve  | Lianna      |   X   |   X   |
-| Luck +20       | Celica      |   X   |   X   |
-| Sol            | Cordelia    |       |   X   |
+| Astra          | Ryoma       | **M** | **M** |
+| Luna           | Chrom       | **M** | **M** |
+| Trample        | Camilla     | **M** | **M** |
+| Armored Blow   | Tiki        |   O   |   –   |
+| Pass           | Lyn         |   O   |   –   |
+| Mag +10        | Leo         |   O   |   O   |
+| Dracoshield    | Corrin      |   O   |   O   |
+| Solidarity     | Robin       |   O   |   O   |
+| Pavise         | Frederick   |   O   |   O   |
+| Aegis          | Xander      |   O   |   O   |
+| Live To Serve  | Lianna      |   O   |   O   |
+| Luck +20       | Celica      |   O   |   O   |
+| Sol            | Cordelia    |   –   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
@@ -224,18 +224,18 @@ Solidarity (Robin), Dracoshield (Corrin), Mag +10 (Leo), Luck +20 (Celica), Live
 
 | Skill          | Hero        |  PC   |  AI   |
 | :------------- | :---------- | :---: | :---: |
-| **Astra**      | **Ryoma**   | **X** | **X** |
-| **Luna**       | **Chrom**   | **X** | **X** |
-| **Trample**    | **Camilla** | **X** | **X** |
-| Armored Blow   | Tiki        |   X   |       |
-| Pass           | Lyn         |   X   |       |
-| Str +10        | Lissa       |   X   |   X   |
-| Dracoshield    | Corrin      |   X   |   X   |
-| Solidarity     | Robin       |   X   |   X   |
-| Pavise         | Frederick   |   X   |   X   |
-| Aegis          | Xander      |   X   |   X   |
-| Live To Serve  | Lianna      |   X   |   X   |
-| Luck +20       | Celica      |   X   |   X   |
+| Astra          | Ryoma       | **M** | **M** |
+| Luna           | Chrom       | **M** | **M** |
+| Trample        | Camilla     | **M** | **M** |
+| Armored Blow   | Tiki        |   O   |   –   |
+| Pass           | Lyn         |   O   |   –   |
+| Str +10        | Lissa       |   O   |   O   |
+| Dracoshield    | Corrin      |   O   |   O   |
+| Solidarity     | Robin       |   O   |   O   |
+| Pavise         | Frederick   |   O   |   O   |
+| Aegis          | Xander      |   O   |   O   |
+| Live To Serve  | Lianna      |   O   |   O   |
+| Luck +20       | Celica      |   O   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
@@ -263,18 +263,18 @@ Solidarity (Robin), Dracoshield (Corrin), Str +10 (Lissa), Luck +20 (Celica), Li
 
 | Skill          | Hero        |  PC   |  AI   |
 | :------------- | :---------- | :---: | :---: |
-| **Astra**      | **Ryoma**   | **X** | **X** |
-| **Luna**       | **Chrom**   | **X** | **X** |
-| **Trample**    | **Camilla** | **X** | **X** |
-| Awakening      | Lucina      |   X   |       |
-| Armored Blow   | Tiki        |   X   |       |
-| Str +10        | Lissa       |   X   |   X   |
-| Dracoshield    | Corrin      |   X   |   X   |
-| Solidarity     | Robin       |   X   |   X   |
-| Pavise         | Frederick   |   X   |       |
-| Aegis          | Xander      |   X   |       |
-| Live To Serve  | Lianna      |   X   |   X   |
-| Luck +20       | Celica      |   X   |   X   |
+| Astra          | Ryoma       | **M** | **M** |
+| Luna           | Chrom       | **M** | **M** |
+| Trample        | Camilla     | **M** | **M** |
+| Awakening      | Lucina      |   O   |   –   |
+| Armored Blow   | Tiki        |   O   |   –   |
+| Str +10        | Lissa       |   O   |   O   |
+| Dracoshield    | Corrin      |   O   |   O   |
+| Solidarity     | Robin       |   O   |   O   |
+| Pavise         | Frederick   |   O   |   –   |
+| Aegis          | Xander      |   O   |   –   |
+| Live To Serve  | Lianna      |   O   |   O   |
+| Luck +20       | Celica      |   O   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
@@ -303,4 +303,3 @@ Solidarity (Robin), Dracoshield (Corrin), Str +10 (Lissa), Luck +20 (Celica), Li
 ## Conclusion
 
 Being the only Pre-DLC lancers, they are invaluable assets to any team. Despite their large hitboxes, they are surprisingly lightweight and fast, and make up for their generally low damage by being the juggling queens of FE Warriors. Their ability to dart in and out of fights is unrivaled, and they are excellent team supporters offering both heals and high speed transport. Just don’t fight archers with them.
-

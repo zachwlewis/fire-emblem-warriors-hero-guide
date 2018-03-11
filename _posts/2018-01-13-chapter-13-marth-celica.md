@@ -121,19 +121,19 @@ _Note that `C1` gains 3 charges by using uncharged `C1`._
 
 | Skill          | Hero        |  PC   |  AI   |
 | :------------- | :---------- | :---: | :---: |
-| **Astra**      | **Ryoma**   | **X** | **X** |
-| **Luna**       | **Chrom**   | **X** | **X** |
-| **Trample**    | **Camilla** | **X** | **X** |
-| Armored Blow   | Tiki        |   X   |       |
-| Pass           | Lyn         |   X   |       |
-| Luck +20       | Celica      |   X   |   X   |
-| Str + 10       | Lissa       |   X   |   X   |
-| Skill +10      | Takumi      |   X   |       |
-| Aegis          | Xander      |   X   |       |
-| Awakening      | Lucina      |   X   |       |
-| Potent Potion  | Rowan       |   X   |   X   |
-| Solidarity     | Robin       |   X   |   X   |
-| Dracoshield    | Corrin      |   X   |   X   |
+| Astra          | Ryoma       | **M** | **M** |
+| Luna           | Chrom       | **M** | **M** |
+| Trample        | Camilla     | **M** | **M** |
+| Armored Blow   | Tiki        |   O   |   –   |
+| Pass           | Lyn         |   O   |   –   |
+| Luck +20       | Celica      |   O   |   O   |
+| Str + 10       | Lissa       |   O   |   O   |
+| Skill +10      | Takumi      |   O   |   –   |
+| Aegis          | Xander      |   O   |   –   |
+| Awakening      | Lucina      |   O   |   –   |
+| Potent Potion  | Rowan       |   O   |   O   |
+| Solidarity     | Robin       |   O   |   O   |
+| Dracoshield    | Corrin      |   O   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
@@ -164,19 +164,19 @@ Luck +20 (Celica), Str +10 (Lissa), Aegis (Xander), Pavise (Frederick), Solidari
 
 | Skill          | Hero        |  PC   |  AI   |
 | :------------- | :---------- | :---: | :---: |
-| **Astra**      | **Ryoma**   | **X** | **X** |
-| **Luna**       | **Chrom**   | **X** | **X** |
-| **Trample**    | **Camilla** | **X** | **X** |
-| Armored Blow   | Tiki        |   X   |       |
-| Pass           | Lyn         |   X   |       |
-| Luck +20       | Celica      |   X   |   X   |
-| Mag +10        | Leo         |   X   |   X   |
-| Skill +10      | Takumi      |   X   |       |
-| Aegis          | Xander      |   X   |   X   |
-| Pavise         | Frederick   |   X   |   X   |
-| Solidarity     | Robin       |   X   |   X   |
-| Dracoshield    | Corrin      |   X   |   X   |
-| Live To Serve  | Lianna      |   X   |   X   |
+| Astra          | Ryoma       | **M** | **M** |
+| Luna           | Chrom       | **M** | **M** |
+| Trample        | Camilla     | **M** | **M** |
+| Armored Blow   | Tiki        |   O   |   –   |
+| Pass           | Lyn         |   O   |   –   |
+| Luck +20       | Celica      |   O   |   O   |
+| Mag +10        | Leo         |   O   |   O   |
+| Skill +10      | Takumi      |   O   |   –   |
+| Aegis          | Xander      |   O   |   O   |
+| Pavise         | Frederick   |   O   |   O   |
+| Solidarity     | Robin       |   O   |   O   |
+| Dracoshield    | Corrin      |   O   |   O   |
+| Live To Serve  | Lianna      |   O   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
@@ -209,4 +209,3 @@ Marth and Celica have the largest focus on airborne attacks of the sword units, 
 For characters with a rapier-based style, they ironically struggle at close quarters 1v1s, as their movement heavy combos will often take them away from officers. In this sense they play rather similarly to the Pegasus Knights, of all things, being great hit-and-run fighters with a focus on airborne combos.
 
 They are both solid, but if you were only to invest in one and don’t have a preference in terms of personality, I would go with Marth. His stats are slightly better and Exalted Falchion has a more versatile build path due to having **Dracoslayer** in the 7th slot.
-

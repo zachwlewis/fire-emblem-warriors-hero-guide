@@ -66,19 +66,19 @@ Pretty standard stuff here. `C4` is easily Ryoma’s best combo, but beyond that
 
 | Skill          | Hero        |  PC   |  AI   |
 | :------------- | :---------- | :---: | :---: |
-| **Astra**      | **Ryoma**   | **X** | **X** |
-| **Luna**       | **Chrom**   | **X** | **X** |
-| **Trample**    | **Camilla** | **X** | **X** |
-| Armored Blow   | Tiki        |   X   |       |
-| Luck +20       | Celica      |   X   |   X   |
-| Str + 10       | Lissa       |   X   |   X   |
-| Skill +10      | Takumi      |   X   |   X   |
-| Aegis          | Xander      |   X   |   X   |
-| Pavise         | Frederick   |   X   |   X   |
-| Awakening      | Lucina      |   X   |       |
-| Potent Potion  | Rowan       |   X   |   X   |
-| Solidarity     | Robin       |   X   |   X   |
-| Dracoshield    | Corrin      |   X   |   X   |
+| Astra          | Ryoma       | **M** | **M** |
+| Luna           | Chrom       | **M** | **M** |
+| Trample        | Camilla     | **M** | **M** |
+| Armored Blow   | Tiki        |   O   |   –   |
+| Luck +20       | Celica      |   O   |   O   |
+| Str + 10       | Lissa       |   O   |   O   |
+| Skill +10      | Takumi      |   O   |   O   |
+| Aegis          | Xander      |   O   |   O   |
+| Pavise         | Frederick   |   O   |   O   |
+| Awakening      | Lucina      |   O   |   –   |
+| Potent Potion  | Rowan       |   O   |   O   |
+| Solidarity     | Robin       |   O   |   O   |
+| Dracoshield    | Corrin      |   O   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills

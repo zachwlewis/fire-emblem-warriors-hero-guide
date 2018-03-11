@@ -68,21 +68,21 @@ As an aside, given that Lissa has by far the highest resistance of any pre-DLC a
 
 | Skill         | Hero        |  PC   |  AI   |
 | :------------ | :---------- | :---: | :---: |
-| **Astra**     | **Ryoma**   | **X** | **X** |
-| **Luna**      | **Chrom**   | **X** | **X** |
-| **Trample**   | **Camilla** | **X** | **X** |
-| Armored Blow  | Tiki        |   X   |       |
-| Pass          | Lyn         |   X   |       |
-| Aegis         | Xander      |   X   |       |
-| Pavise        | Frederick   |   X   |       |
-| Defense +10   | Hinoka      |   X   |   X   |
-| Live To Serve | Lianna      |   X   |   X   |
-| Mag + 10      | Leo         |   X   |   X   |
-| Luck +20      | Celica      |   X   |   X   |
-| Awakening     | Lucina      |   X   |       |
-| Str +10       | Lissa       |       |   X   |
-| Solidarity    | Robin       |       |   X   |
-| Dracoshield   | Corrin      |       |   X   |
+| Astra         | Ryoma       | **M** | **M** |
+| Luna          | Chrom       | **M** | **M** |
+| Trample       | Camilla     | **M** | **M** |
+| Armored Blow  | Tiki        |   O   |   –   |
+| Pass          | Lyn         |   O   |   –   |
+| Aegis         | Xander      |   O   |   –   |
+| Pavise        | Frederick   |   O   |   –   |
+| Defense +10   | Hinoka      |   O   |   O   |
+| Live To Serve | Lianna      |   O   |   O   |
+| Mag + 10      | Leo         |   O   |   O   |
+| Luck +20      | Celica      |   O   |   O   |
+| Awakening     | Lucina      |   O   |   –   |
+| Str +10       | Lissa       |   –   |   O   |
+| Solidarity    | Robin       |   –   |   O   |
+| Dracoshield   | Corrin      |   –   |   O   |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
