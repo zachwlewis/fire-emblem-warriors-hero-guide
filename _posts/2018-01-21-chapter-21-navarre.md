@@ -1,5 +1,5 @@
 ---
-title: Chapter 19 — Navarre
+title: Chapter 21 — Navarre
 layout: chapter
 ---
 
