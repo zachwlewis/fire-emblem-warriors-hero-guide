@@ -12,7 +12,7 @@ Hi everyone! Today’s guide is on the eldest royal sister of Nohr, and our only
 | Stat | Value |
 | :--- | ----: |
 | HP   |   847 |
-| Str  |   192 |
+| Str  |   129 |
 | Mag  |    99 |
 | Skl  |   108 |
 | Spe  |   116 |
