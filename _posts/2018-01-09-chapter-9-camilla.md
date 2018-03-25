@@ -21,7 +21,7 @@ Hi everyone! Today’s guide is on the eldest royal sister of Nohr, and our only
 | Res  |    54 |
 {: .table .table-sm .stats}
 
-Poor Luck aside, Camilla is an offensive powerhouse, sporting great Strength with surprisingly high magic. Her Skill is pretty high as well, along with her Speed (although Speed is a relatively bad stat). She’s decently physically bulky as well, being by far the best flying physical tank, though her Res is rather poor.
+Poor Luck aside, Camilla is an offensive powerhouse, sporting great Strength with surprisingly high magic. Her Skill is pretty high as well, along with her Speed (although Speed is a relatively bad stat). She’s decently physically bulky as well, though her Res is rather poor.
 
 #### Staff
 
@@ -29,17 +29,24 @@ Never
 
 #### Unique Weapon
 
-Camilla’s Axe: no 7th slot, **True Power** in 8th slot
+Camilla’s Axe: No 7th slot, **True Power**/**Divine Favor** (Fates DLC only) in 8th slot
 
 #### Unique Skill
 
 Trample: Increases damage dealt to foot soldiers by 10%.
 
-**Pair up bonus as support:** Str/Def/Skill (+5 if A/A+, otherwise +3)
+#### Weaknesses
+
+- Dracoslayer
+- Wingslayer
+
+#### Pair Up Bonuses as Support
+Str/Def/Skill (+5 if A/A+, otherwise +3)
 
 ## Moveset
 
-_Note that Camilla’s standard `C1` charges by attacking enemies. Her dashing `C1` is unaffected by the charge meter._
+Camilla’s standard `C1` charges by attacking enemies. Her dashing `C1` is unaffected by the charge meter.
+{:.alert .alert-info}
 
 **`Y1` (Dash):** Camilla’s wyvern lands on the ground and slides forward, dealing a small amount of damage to enemies. This is a much better way to initiate a fight than stopping for a standard `Y1`.
 
@@ -51,7 +58,7 @@ _Note that Camilla’s standard `C1` charges by attacking enemies. Her dashing `
 
 **`C1` (Dash):** Camilla’s wyvern does a backflip and slams into the ground. Just like the Pegasus dashing `C1`, this is a great hit-and-run crowd clearer, and I’m fairly sure this hits a larger area than the Pegasus one. It’s also spammable, which is rather neat. You can basically spam this for most of a given map and that would be a successful strategy.
 
-**`C2`:** Camilla’s wyvern does a backflip, launching nearby enemies. Camilla doesn’t have too many juggle starters (Y4 is her other main one), so this is quite a valuable attack, having good synergy with `C6` in particular.
+**`C2`:** Camilla’s wyvern does a backflip, launching nearby enemies. Camilla doesn’t have too many juggle starters (`Y4` is her other main one), so this is quite a valuable attack, having good synergy with `C6` in particular.
 
 **`C3`:** Camilla’s wyvern spins forward twice, and Camilla follows up with two slashes that form an ‘X’ shape. A pretty nice crowd clearer that has a fair bit of forward momentum.
 
@@ -63,14 +70,31 @@ _Note that Camilla’s standard `C1` charges by attacking enemies. Her dashing `
 
 ## Weapon Build
 
-- Choose one: **Strong I**, **Strong III**, **Strong IV**
-- Choose one: **Strong I**, **Strong VI**
-- **Rainstorm**
+My choices in **bold**, locked skills in _italics_.
+{:.alert .alert-info}
+
+### Vanilla
+
+- Choose one: **Strong I**, Strong III, Strong IV
+- Choose one: Strong I, **Strong VI**
+- **Armor Strike**
 - **Dracoslayer**
 - **Mountslayer**
-- Choose one: **Pair Up+**, **Critical+**, **Warrior+**
+- Choose one: **Pair Up+**, Critical+, Warrior+
 
-Camilla has so many good combos that it’s really hard to choose which to boost. Choose your favorite crowd clearer: `C1`, `C3` or `C4`. Bear in mind that `C1` (dash) hits an absolutely obscene area around her wyvern. I personally prefer `C4`. Then, choose your favorite officer killer: `C1` or `C6`. I prefer `C6`. I excluded **Strong V** since its only real use is to break stun gauges. **Rainstorm** is ever-present. **Dracoslayer** and **Mountslayer** are her best options, as **Wingslayer** and **Plateslayer** include matchups that are already in her favor. I feel that **Pair Up+** is her best 5k option, being a flier, but **Critical+** and **Warrior+** are decent enough to warrant mention. I’d like to give a quick mention to **Topsy-Turvy**, which you can run if you really want to. However, she really wants the skills I already listed, and Lissa is a better user of it anyway.
+Choose your favorite crowd clearer: `C1`, `C3` or `C4`. Bear in mind that `C1` (dash) hits an absolutely obscene area around her wyvern. Then, choose your favorite officer killer: `C1` or `C6`. I prefer `C6`. I excluded Strong V since its only real use is to break stun gauges. Armor Strike is a great skill that can help Camilla break down tanky officers. Dracoslayer and Mountslayer are her best options, as Wingslayer and Plateslayer include matchups that are already in her favor. I feel that Pair Up+ is her best 5k option, being a flier, but Critical+ and Warrior+ are decent enough to warrant mention. 
+
+### DLC
+
+- Choose one: Strong I, Strong VI, or **Antitriangle**
+- Choose one: **Critical Focus**, Axebreaker, Swordbreaker, Lancebreaker
+- **Armor Strike** 
+- Choose one: Mountslayer, Plateslayer, **Wingslayer**, Dracoslayer
+- Choose one: Mountslayer, **Plateslayer**, Wingslayer, Dracoslayer
+- Choose one: **Pair Up+**, Warrior+, Critical+
+- _Divine Favor_
+
+`C1` and `C6` are Minerva's most powerful combos. However, if you want to differentiate between her and Minerva, you can opt to run Antitriangle here instead. I strongly recommend Critical Focus, but if you would rather not grind out the KOs then pick a breaker skill (Lancebreaker if you opt for Antitriangle). Armor Strike is a great skill that can help Camilla break down tanky officers. Choose your Slayer skills based on availability and personal preference. Finally, Pair Up+ has great synergy with Camilla being a flying unit, but if you don't have any on hand, Warrior and Critical work just fine as well.
 
 ## Boost Skills
 
@@ -78,44 +102,45 @@ Camilla has so many good combos that it’s really hard to choose which to boost
 | :------------- | :---------- | :---: | :---: |
 | Astra          | Ryoma       | **M** | **M** |
 | Luna           | Chrom       | **M** | **M** |
-| Trample        | Camilla     | **M** | **M** |
-| Armored Blow   | Tiki        |   O   |   –   |
+| Luck +20       | Celica      | **M** | **M** |
+| Trample        | Camilla     |   O   | **S** |
+| Armored Blow   | Tiki        | **S** |   –   |
 | Pass           | Lyn         |   O   |   –   |
-| Luck +20       | Celica      |   O   |   O   |
-| Str + 10       | Lissa       |   O   |   O   |
-| Res +10        | Elise       |   O   |   O   |
-| Skill +10      | Takumi      |   O   |   –   |
+| Lethality      | Niles       | **S** |   –   |
+| Iote's Shield  | Minerva     |   O   |   O   |
+| Solidarity     | Robin       | **S** | **S** |
 | Awakening      | Lucina      |   O   |   –   |
-| Potent Potion  | Rowan       |   O   |   O   |
-| Solidarity     | Robin       |   O   |   O   |
+| Counter        | Oboro       |   O   |   –   |
 | Dracoshield    | Corrin      |   O   |   O   |
+| Lone Wolf      | Navarre     |   –   | **S** |
 {: .table .table-sm .skills}
 
 #### Mandatory Skills
 
-Astra (Ryoma), Luna (Chrom), Trample (Camilla)
+**Astra (Ryoma)**, **Luna (Chrom)**, **Trample (Camilla)**
 
-- You might be thinking: ‘wow, aside from her crummy Luck and Res, Camilla seems so good! Does she have any Weaknesseses?’ And the answer is: yes, she does. Her moveset is so slow without Astra that it feels clunky to use. She is like an entirely different character with Astra. **This is the absolute highest priority for her.**
-- On a happier note, she has the unique distinction of being able to get Trample for the low price of 3 Camilla's Belts.
-- At maximum Luck, Camilla’s Luna will reduce foes’ Def/Res by roughly 34%.
+- The biggest consistent damage boosters. Make sure to only run Luck +20 if you already have Luna equipped.
 
 #### Vanguard Skills
 
-Armored Blow (Tiki), Pass (Lyn), Luck +20 (Celica), Str +10 (Lissa), Res +10 (Elise), Skill +10 (Takumi), Awakening (Lucina), Potent Potion (Rowan), Solidarity (Robin), Dracoshield (Corrin)
+Trample (Camilla), **Armored Blow (Tiki)**, Pass (Lyn), **Lethality (Niles)**, Iote's Sheild (Minerva), **Solidarity (Robin)**, Awakening (Lucina), Counter (Oboro)
 
-- This is her other major weakness: her hitbox. It’s gigantic. Armored Blow is actually a higher priority for a player-controlled Camilla than Trample in my opinion. Pass is also very, very useful on her.
-- Luck +20 is a great skill, boosting the Def/Res reduction on Luna to 39%.
-- Str +10 is a flat damage boost, Res +10 can shore up a weakness, and Skill +10 is a good choice if you opt for Crit+.
-- Speed is a not-so-useful stat, but she has a lot of it, which means she can use Awakening to decent effect.
-- Potent Potion is always nice, allowing her to support her team.
-- Solidarity and Dracoshield are very nice to have, especially on a flier, who will be pair-swapping often.
+- Trample is a great skill. Outstanding, even. However, as more boost skills come out, competition is getting tougher, and of the consistent damage boosters Trample is the most expendable. If you want a nice flat 10% boost on the most common enemy type in the game, this is the skill for you.
+- Armored Blow is a wonderful skill especially considering Camilla's gigantic hitbox. Pass is Armored Blow lite, and is good for minimixing the risk carried by Armor Strike.
+- Lethality is a great damage booster, but be sure to have Luck +20 equipped for maximum efficiency.
+- Iote's Shield is a great skill to sub in if you want to take the fight to archers, but it's a skill that should be run on a case-by-case basis.
+- Solidarity has great synergy with Camilla's role as a flier.
+- Awakening is a solid damage boost while in Awakening mode.
+- Counter is a solid option to open up stun gauges quickly.
 
 #### Support Skills
 
-Luck +20 (Celica), Str +10 (Lissa), Res +10 (Elise), Potent Potion (Rowan), Solidarity (Robin), Dracoshield (Corrin)
+**Trample (Camilla)**, **Solidarity (Robin)**, Dracoshield (Corrin), **Lone Wolf (Navarre)**, Iote's Shield (Minerva)
 
-- These skills were covered sufficiently above.
+- Lone Wolf is a great skill for an AI controlled unit, considering that they are often on their own if they are not in the back of a Pair Up.
+- Iote's Shield allows Camilla to be fielded on maps with archers.
+- Solidarity and Dracoshield are great skills for a dedicated Pair-Up build.
 
 ## Conclusion
 
-Camilla is an incredibly unique and powerful unit, being the only axe flier in the game. Stat-wise, she is effectively a flying tank, if that tank had really bad Luck and died in 4 hits to an archer. Her moveset is incredible — with Astra — and she has an answer to any situation that arises. She crushes crowds, brutalizes officers, and supports her team by flying them wherever they need to go. She’s a great pick for nearly any map, so long as there aren’t too many archers or Falchion users.
+Camilla is a great unit. In terms of raw DPS, she is outclassed by Minerva, but Camilla has the advantage of being included in the base game. Her moveset and weapon type are fantastic, and she has some of the best crowd-clearing capabilities in the game.
