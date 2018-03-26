@@ -117,7 +117,7 @@ Choose your favorite crowd clearer: `C1`, `C3` or `C4`. Bear in mind that `C1` (
 
 #### Mandatory Skills
 
-**Astra (Ryoma)**, **Luna (Chrom)**, **Trample (Camilla)**
+**Astra (Ryoma)**, **Luna (Chrom)**, **Luck +20 (Celica)**
 
 - The biggest consistent damage boosters. Make sure to only run Luck +20 if you already have Luna equipped.
 

@@ -37,7 +37,7 @@ Iote's Shield: Nullifies effective damage against this unit.
 - Wingslayer
 
 #### Pair Up Bonuses as Support
-??? (+5 if A/A+, otherwise +3)
+Str/Skl/Def (+5 if A/A+, otherwise +3)
 
 ## Moveset
 
@@ -86,7 +86,7 @@ Between Camilla and Minerva, I think one of them should run Antitriangle in orde
 | Astra          | Ryoma       | **M** | **M** |
 | Luna           | Chrom       | **M** | **M** |
 | Luck +20       | Celica      | **M** | **M** |
-| Trample        | Minerva     |   O   | **S** |
+| Trample        | Camilla     |   O   | **S** |
 | Armored Blow   | Tiki        | **S** |   –   |
 | Pass           | Lyn         |   O   |   –   |
 | Lethality      | Niles       | **S** |   –   |
@@ -100,13 +100,13 @@ Between Camilla and Minerva, I think one of them should run Antitriangle in orde
 
 #### Mandatory Skills
 
-**Astra (Ryoma)**, **Luna (Chrom)**, **Trample (Minerva)**
+**Astra (Ryoma)**, **Luna (Chrom)**, **Luck +20 (Celica)**
 
 - The biggest consistent damage boosters. Make sure to only run Luck +20 if you already have Luna equipped.
 
 #### Vanguard Skills
 
-Trample (Minerva), **Armored Blow (Tiki)**, Pass (Lyn), **Lethality (Niles)**, Iote's Sheild (Minerva), **Solidarity (Robin)**, Awakening (Lucina), Counter (Oboro)
+Trample (Camilla), **Armored Blow (Tiki)**, Pass (Lyn), **Lethality (Niles)**, Iote's Sheild (Minerva), **Solidarity (Robin)**, Awakening (Lucina), Counter (Oboro)
 
 - Trample is a great skill. Outstanding, even. However, as more boost skills come out, competition is getting tougher, and of the consistent damage boosters Trample is the most expendable. If you want a nice flat 10% boost on the most common enemy type in the game, this is the skill for you.
 - Armored Blow is a wonderful skill especially considering Minerva's gigantic hitbox. Pass is Armored Blow lite, and is good for minimixing the risk carried by Armor Strike.
@@ -118,7 +118,7 @@ Trample (Minerva), **Armored Blow (Tiki)**, Pass (Lyn), **Lethality (Niles)**, I
 
 #### Support Skills
 
-**Trample (Minerva)**, **Solidarity (Robin)**, Dracoshield (Corrin), **Lone Wolf (Navarre)**, Iote's Shield (Minerva)
+**Trample (Camilla)**, **Solidarity (Robin)**, Dracoshield (Corrin), **Lone Wolf (Navarre)**, Iote's Shield (Minerva)
 
 - Lone Wolf is a great skill for an AI controlled unit, considering that they are often on their own if they are not in the back of a Pair Up.
 - Iote's Shield allows Minerva to be fielded on maps with archers.
