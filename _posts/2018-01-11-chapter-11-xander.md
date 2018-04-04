@@ -7,18 +7,18 @@ Hi everyone! Today’s guide is on the Crown Prince of Nohr and world-record hol
 
 ## Basic Info
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
 | HP   |   999 |
-| Str  |   113 |
-| Mag  |    19 |
-| Skl  |   112 |
-| Spe  |    94 |
-| Lck  |   137 |
-| Def  |   106 |
-| Res  |    67 |
+| Str  |   126 |
+| Mag  |    21 |
+| Skl  |   125 |
+| Spe  |   105 |
+| Lck  |   153 |
+| Def  |   118 |
+| Res  |    75 |
 {: .table .table-sm .stats}
 
 Xander’s got a pretty nice stat spread. His offensive stats are not best in class, but they are quite solid, the standout being his 137 Luck. He’s also very bulky — his Resistance, while low, is still high enough to use Aegis (but only just, and only when maxed out). He’s got somewhat poor speed as well but this is not nearly as much of a weakness as it is in Conquest.

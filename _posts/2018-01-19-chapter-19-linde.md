@@ -5,18 +5,18 @@ layout: chapter
 
 ## Basic Info
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   850 |
-| Str  |    13 |
-| Mag  |   163 |
-| Skl  |    96 |
-| Spe  |   106 |
-| Lck  |   143 |
-| Def  |    38 |
-| Res  |   129 |
+| HP   |   958 |
+| Str  |    15 |
+| Mag  |   182 |
+| Skl  |   107 |
+| Spe  |   118 |
+| Lck  |   159 |
+| Def  |    42 |
+| Res  |   144 |
 {: .table .table-sm .stats}
 
 Linde has a pretty fantastic stat pool, sporting a ton of Luck and extremely high Magic. Her other offensive stats are solid, sans Strength, and her Resistance is similarly good. On the physical side, she's made of paper, but that's standard fare for a mage.

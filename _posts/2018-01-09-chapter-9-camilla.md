@@ -7,18 +7,18 @@ Hi everyone! Today’s guide is on the eldest royal sister of Nohr, and our only
 
 ## Basic Info
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   847 |
-| Str  |   129 |
-| Mag  |    99 |
-| Skl  |   108 |
-| Spe  |   116 |
-| Lck  |    68 |
-| Def  |   120 |
-| Res  |    54 |
+| HP   |   955 |
+| Str  |   144 |
+| Mag  |   110 |
+| Skl  |   121 |
+| Spe  |   129 |
+| Lck  |    76 |
+| Def  |   134 |
+| Res  |    60 |
 {: .table .table-sm .stats}
 
 Poor Luck aside, Camilla is an offensive powerhouse, sporting great Strength with surprisingly high magic. Her Skill is pretty high as well, along with her Speed (although Speed is a relatively bad stat). She’s decently physically bulky as well, though her Res is rather poor.

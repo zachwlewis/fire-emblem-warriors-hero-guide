@@ -5,18 +5,18 @@ layout: chapter
 
 ## Basic Info
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   877 |
-| Str  |   106 |
-| Mag  |    23 |
-| Skl  |   120 |
-| Spe  |   123 |
-| Lck  |   103 |
-| Def  |   121 |
-| Res  |    78 |
+| HP   |   987 |
+| Str  |   118 |
+| Mag  |    26 |
+| Skl  |   134 |
+| Spe  |   137 |
+| Lck  |   115 |
+| Def  |   135 |
+| Res  |    87 |
 {: .table .table-sm .stats}
 
 Oboro's standout feature is her physical tankiness, sporting impressive HP and Defense alongside slightly below average Resistance. Her relevant offenses are solid as well, with high Skill and solid Luck and Strength. In an ideal world, she would swap her Luck with her Speed, but she's still a force to be reckoned with regardless.

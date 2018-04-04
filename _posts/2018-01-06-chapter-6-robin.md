@@ -7,18 +7,18 @@ Hi everyone! Today’s guide will be on the scale-tipping tactician, Robin.
 
 ## Basic Info
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   796 |
-| Str  |    98 |
-| Mag  |   152 |
-| Skl  |   127 |
-| Spe  |    83 |
-| Lck  |    64 |
-| Def  |    57 |
-| Res  |   163 |
+| HP   |   898 |
+| Str  |   109 |
+| Mag  |   169 |
+| Skl  |   142 |
+| Spe  |    92 |
+| Lck  |    71 |
+| Def  |    64 |
+| Res  |   182 |
 {: .table .table-sm .stats}
 
 Robin has a bit of an interesting statline. Their Luck, Defense, and Speed are pretty pitiful, but their Resistance, Magic, and Skill are fantastic. Their Strength is also pretty decent, making them the only viable **Topsy-Turvy** mage. His high Skill works incredibly well with his `C1` as well, but more on that later.

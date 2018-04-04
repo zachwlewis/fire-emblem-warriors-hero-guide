@@ -9,18 +9,18 @@ Hi everyone! Today’s guide is on the first male and female lords of the series
 
 ### Marth
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   903 |
-| Str  |   112 |
-| Mag  |    11 |
-| Skl  |   132 |
-| Spe  |   126 |
-| Lck  |   137 |
-| Def  |   102 |
-| Res  |    98 |
+| HP   |   999 |
+| Str  |   125 |
+| Mag  |    12 |
+| Skl  |   147 |
+| Spe  |   141 |
+| Lck  |   153 |
+| Def  |   114 |
+| Res  |   109 |
 {: .table .table-sm .stats}
 
 Marth’s got a pretty good stat spread. He’s solidly bulky, has good Skill and especially Luck, and has pretty good Strength. His magic is poor, but it’s not like he needs it for anything. Overall there isn’t much more to say: It’s a good spread for a well-balanced character.
@@ -41,18 +41,18 @@ Paragon: doubles EXP gain. An aside, here: this is a great skill for grinding, b
 
 ### Celica
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   828 |
-| Str  |   107 |
-| Mag  |   107 |
-| Skl  |   118 |
-| Spe  |   118 |
-| Lck  |   129 |
-| Def  |    96 |
-| Res  |    96 |
+| HP   |   934 |
+| Str  |   119 |
+| Mag  |   119 |
+| Skl  |   132 |
+| Spe  |   132 |
+| Lck  |   144 |
+| Def  |   107 |
+| Res  |   107 |
 {: .table .table-sm .stats}
 
 What an interesting looking stat spread. Compared to Marth, the main difference is her much lower HP and her much higher Magic. In fact, of all the currently released sword units, she has the highest magic, making **Topsy-Turvy** a very appealing option for her. Aside from those two, her stats are all slightly lower than Marth’s, but not to a particularly noticeable degree.

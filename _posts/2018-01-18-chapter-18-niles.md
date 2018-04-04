@@ -5,18 +5,18 @@ layout: chapter
 
 ## Basic Info
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   798 |
-| Str  |   103 |
-| Mag  |    82 |
-| Skl  |   106 |
-| Spe  |   153 |
-| Lck  |    67 |
-| Def  |    56 |
-| Res  |   143 |
+| HP   |   900 |
+| Str  |   115 |
+| Mag  |    91 |
+| Skl  |   118 |
+| Spe  |   171 |
+| Lck  |    75 |
+| Def  |    62 |
+| Res  |   159 |
 {: .table .table-sm .stats}
 
 Niles got dealt an unfortunate hand in terms of stats. He excels in Speed, which is by far the least important stat, and his Luck is atrocious, meaning his damage output will be quite a bit lower than his counterparts. He has quite good Resistance, but so does Sakura while also having vastly superior offenses.

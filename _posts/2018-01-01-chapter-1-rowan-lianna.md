@@ -9,18 +9,18 @@ Hello and welcome to my first FE Warriors character guide. This time, I’ll be 
 
 ### Rowan
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   867 |
-| Str  |    97 |
-| Mag  |    78 |
-| Skl  |   121 |
-| Spe  |   126 |
-| Lck  |   121 |
-| Def  |   106 |
-| Res  |   102 |
+| HP   |   977 |
+| Str  |   108 |
+| Mag  |    87 |
+| Skl  |   135 |
+| Spe  |   141 |
+| Lck  |   135 |
+| Def  |   118 |
+| Res  |   114 |
 {: .table .table-sm .stats}
 
 Rowan's stats are balanced across the board, which is to be expected from a protagonist. His bulk is very solid, He's got great skill, speed, and luck, and while his offenses are on the lower side when compared to the whole cast, they are still solid.
@@ -43,18 +43,18 @@ Str/Skill/Luck (+5 if A/A+, otherwise +3)
 
 ### Lianna
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   833 |
-| Str  |    86 |
-| Mag  |    98 |
-| Skl  |   120 |
-| Spe  |   117 |
-| Lck  |   120 |
-| Def  |   102 |
-| Res  |   117 |
+| HP   |   940 |
+| Str  |    96 |
+| Mag  |   109 |
+| Skl  |   134 |
+| Spe  |   130 |
+| Lck  |   134 |
+| Def  |   114 |
+| Res  |   130 |
 {: .table .table-sm .stats}
 
 Lianna has a very similar stat spread to Rowan, losing some points in most stats for higher Resistance and Magic. As such, **Topsy-Turvy** is a must for her. Otherwise, she is extraordinarily well balanced.

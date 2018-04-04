@@ -9,18 +9,18 @@ Hi everyone! Today’s guide is on the youngest Nohrian royal siblings: Elise an
 
 ### Elise
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   770 |
-| Str  |    13 |
-| Mag  |   144 |
-| Skl  |    67 |
-| Spe  |   127 |
-| Lck  |   136 |
-| Def  |    53 |
-| Res  |   184 |
+| HP   |   868 |
+| Str  |    15 |
+| Mag  |   160 |
+| Skl  |    75 |
+| Spe  |   142 |
+| Lck  |   152 |
+| Def  |    59 |
+| Res  |   205 |
 {: .table .table-sm .stats}
 
 Elise is probably the best representation of a cleric in FE Warriors. Her Magic, Luck, Speed, and especially Resistance are all outstanding. However, her HP, Defense, Skill, and especially Strength are rather poor. Despite her relative frailty (except against magic wielders), her offensive capabilities are incredibly high.
@@ -43,18 +43,18 @@ Mag/Res/Speed (+5 with A/A+, otherwise +3)
 
 ### Leo
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   926 |
-| Str  |    73 |
-| Mag  |   134 |
-| Skl  |    89 |
-| Spe  |    92 |
-| Lck  |    92 |
-| Def  |    61 |
-| Res  |   171 |
+| HP   |   999 |
+| Str  |    81 |
+| Mag  |   150 |
+| Skl  |    99 |
+| Spe  |   103 |
+| Lck  |   103 |
+| Def  |    68 |
+| Res  |   191 |
 {: .table .table-sm .stats}
 
 Compared to his sister, Leo has a bit less raw offense, significantly less Luck, and a much higher HP pool. He is overall the bulkiest tome user (61 defense is still kinda bad though), but outside of Magic and Resistance his stat spread is overall a bit mediocre. He doesn’t manage to stand out in any significant way when compared to Elise or Robin aside from being the “safest” pick in terms of overall damage taken.

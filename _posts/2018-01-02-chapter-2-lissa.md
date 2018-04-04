@@ -5,21 +5,21 @@ layout: chapter
 
 Hello and welcome to another FE Warriors character guide. This time, I’ll be covering everyone’s favorite nun with an axe, Lissa.
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   867 |
-| Str  |    87 |
-| Mag  |   129 |
-| Skl  |    99 |
-| Spe  |    96 |
-| Lck  |   121 |
-| Def  |    51 |
-| Res  |   149 |
+| HP   |   977 |
+| Str  |    97 |
+| Mag  |   144 |
+| Skl  |   110 |
+| Spe  |   107 |
+| Lck  |   135 |
+| Def  |    57 |
+| Res  |   166 |
 {: .table .table-sm .stats}
 
-Right off the bat we can see that Lissa, despite her insistence to the contrary, is incredibly delicate. 51 defense at level 130 is bad, no two ways about it. However, she sports impressive Mag, meaning that with **Topsy-Turvy**, she will melt many of the low-resistance physical attackers that are otherwise strong against her.  Similarly, she has a gigantic Resistance stat, allowing her to win slugfests with magical enemies even if she is using **Topsy-Turvy**. Aside from her luck, the rest of her stats are pretty middling.
+Right off the bat we can see that Lissa, despite her insistence to the contrary, is incredibly delicate. 57 defense at level 150 is bad, no two ways about it. However, she sports impressive Mag, meaning that with **Topsy-Turvy**, she will melt many of the low-resistance physical attackers that are otherwise strong against her.  Similarly, she has a gigantic Resistance stat, allowing her to win slugfests with magical enemies even if she is using **Topsy-Turvy**. Aside from her luck, the rest of her stats are pretty middling.
 
 #### Staff
 

@@ -7,18 +7,18 @@ Hi everyone! Today’s guide is on the shapeshifting main character of Fates, Co
 
 ## Basic Info
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   927 |
-| Str  |   106 |
-| Mag  |    83 |
-| Skl  |   108 |
-| Spe  |   103 |
-| Lck  |   123 |
-| Def  |   102 |
-| Res  |    96 |
+| HP   |   999 |
+| Str  |   118 |
+| Mag  |    92 |
+| Skl  |   121 |
+| Spe  |   115 |
+| Lck  |   137 |
+| Def  |   114 |
+| Res  |   107 |
 {: .table .table-sm .stats}
 
 Corrin has a very well rounded stat pool, to the point that there’s really not a whole lot to say about it. Every one of their stats is roughly average/above average with the only standout being their Luck. It’s not bad, but it’s not amazing either.

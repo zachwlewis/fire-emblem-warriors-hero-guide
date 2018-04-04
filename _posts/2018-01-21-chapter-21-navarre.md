@@ -5,18 +5,18 @@ layout: chapter
 
 ## Basic Info
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   914 |
-| Str  |   124 |
-| Mag  |    25 |
-| Skl  |   153 |
-| Spe  |   157 |
-| Lck  |   127 |
-| Def  |    73 |
-| Res  |    73 |
+| HP   |   999 |
+| Str  |   138 |
+| Mag  |    28 |
+| Skl  |   171 |
+| Spe  |   175 |
+| Lck  |   142 |
+| Def  |    81 |
+| Res  |    81 |
 {: .table .table-sm .stats}
 
 Navarre is an offensive powerhouse, sporting solid Luck, Strength, and especially Skill stats. His defenses are fairly poor, but they are slightly offset by his large HP pool. He's a few steps up from "glass cannon," but still relatively frail.

@@ -5,18 +5,18 @@ layout: chapter
 
 ## Basic Info
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   976 |
-| Str  |   157 |
+| HP   |   999 |
+| Str  |   175 |
 | Mag  |     3 |
-| Skl  |   103 |
-| Spe  |   124 |
-| Lck  |    91 |
-| Def  |   139 |
-| Res  |    32 |
+| Skl  |   115 |
+| Spe  |   138 |
+| Lck  |   102 |
+| Def  |   155 |
+| Res  |    36 |
 {: .table .table-sm .stats}
 
 #### Staff

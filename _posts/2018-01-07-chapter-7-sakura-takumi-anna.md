@@ -9,18 +9,18 @@ Hi everyone! Today’s guide is on the trio of archers: Sakura, Takumi, and Anna
 
 ### Sakuras
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   745 |
-| Str  |    78 |
-| Mag  |   141 |
-| Skl  |    89 |
-| Spe  |   118 |
-| Lck  |   124 |
-| Def  |    57 |
-| Res  |   163 |
+| HP   |   839 |
+| Str  |    87 |
+| Mag  |   157 |
+| Skl  |    99 |
+| Spe  |   132 |
+| Lck  |   138 |
+| Def  |    64 |
+| Res  |   182 |
 {: .table .table-sm .stats}
 
 She’s overall very much what you would expect from a Cleric, Strength aside. Her Magic, Luck, Speed, and Resistance are her definite standout stats. Her Strength and Skill are middling (thankfully, she doesn’t need Strength), and her HP and Defense are rather poor. Still, she has the highest flat offense of any of the archers, which is definitely neat. Her niche is similar to that of Lissa: Mage tank with **Topsy-Turvy**.
@@ -43,18 +43,18 @@ Mag/Res/Skill (+5 with A/A+, otherwise +3)
 
 ### Takumi
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   871 |
-| Str  |   124 |
+| HP   |   981 |
+| Str  |   138 |
 | Mag  |     4 |
-| Skl  |   183 |
-| Spe  |   146 |
-| Lck  |   134 |
-| Def  |    57 |
-| Res  |    66 |
+| Skl  |   204 |
+| Spe  |   163 |
+| Lck  |   150 |
+| Def  |    64 |
+| Res  |    73 |
 {: .table .table-sm .stats}
 
 My goodness, that Skill. If you couldn’t tell just by looking at it, Takumi has by far the highest Skill in the game, making his crits and warrior specials extremely potent. In general, he is a character of extremes: his Skill, Strength, Luck, and Speed are all very high, but his Defense and Resistance are poor, and his Magic is the second lowest in the game at 4. Despite having a lower flat attacking stat than his sister, Takumi is by far the most offense-oriented archer.
@@ -77,18 +77,18 @@ Str/Skill/Speed (+5 with A/A+, otherwise +3)
 
 ### Anna
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   781 |
-| Str  |    99 |
-| Mag  |    85 |
-| Skl  |   102 |
-| Spe  |   126 |
-| Lck  |   153 |
-| Def  |    88 |
-| Res  |    96 |
+| HP   |   881 |
+| Str  |   110 |
+| Mag  |    94 |
+| Skl  |   114 |
+| Spe  |   141 |
+| Lck  |   171 |
+| Def  |    98 |
+| Res  |   107 |
 {: .table .table-sm .stats}
 
 Anna has a deceptively good stat spread. It's pretty average across the board, with her only standout stats being her Luck and Speed. Thankfully, with Luna, her Luck can shore up her so-so offenses by a lot. While her Resistance is poor compared to Sakura’s, she is overall the bulkiest of the archers. She also has the option of running **Topsy-Turvy**, but Sakura does it so much better that it’s not really worth it.

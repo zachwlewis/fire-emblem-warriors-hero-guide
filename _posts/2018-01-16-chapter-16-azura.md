@@ -5,18 +5,18 @@ layout: chapter
 
 ## Basic info
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   756 |
-| Str  |    96 |
-| Mag  |    42 |
-| Skl  |   121 |
-| Spe  |   129 |
-| Lck  |   129 |
-| Def  |    56 |
-| Res  |   106 |
+| HP   |   852 |
+| Str  |   107 |
+| Mag  |    47 |
+| Skl  |   135 |
+| Spe  |   144 |
+| Lck  |   144 |
+| Def  |    62 |
+| Res  |   118 |
 {: .table .table-sm .stats}
 
 Azura is, essentially, a walking Pegasus Knight in terms of stats. Her excellent Luck and Skill are basically all she needs to be a powerhouse offensively. Her strength is on the low end, but with a fully awakened Blessed Lance (or even a 5 star Hero Lance) that doesn't matter in the slightest. Her defense is poor even at max level, so be careful when facing physical enemies.

@@ -5,18 +5,18 @@ layout: chapter
 
 Hi everyone! Today’s guide is on the High Prince of Hoshido, and the most popular man in Aytolis: Ryoma.
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   920 |
-| Str  |   127 |
-| Mag  |    11 |
-| Skl  |   125 |
-| Spe  |   153 |
-| Lck  |   127 |
-| Def  |    96 |
-| Res  |    83 |
+| HP   |   999 |
+| Str  |   142 |
+| Mag  |    12 |
+| Skl  |   141 |
+| Spe  |   171 |
+| Lck  |   141 |
+| Def  |   107 |
+| Res  |    92 |
 {: .table .table-sm .stats}
 
 Ryoma has a really great stat spread, plain and simple. With over 100 points in all 3 of his relevant offensive stats (Strength, Skill, and Luck), a respectable health pool, and middle-of-the-pack bulk, there’s no significant area where you can really say Ryoma is weak. I suppose the only downside is that none of his stats are truly excellent aside from Speed (which is kind of a useless stat anyway), but that’s a small price to pay for a stat spread this good overall.

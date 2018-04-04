@@ -9,18 +9,18 @@ Hi everyone! Today’s guide will be on the trio of Pegasus Knights, Cordelia, H
 
 ### Cordelia
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   818 |
-| Str  |    89 |
-| Mag  |    89 |
-| Skl  |   134 |
-| Spe  |   120 |
-| Lck  |    92 |
-| Def  |    98 |
-| Res  |   161 |
+| HP   |   922 |
+| Str  |    99 |
+| Mag  |    99 |
+| Skl  |   150 |
+| Spe  |   134 |
+| Lck  |   103 |
+| Def  |   109 |
+| Res  |   179 |
 {: .table .table-sm .stats}
 
 Of the three Pegasus Knights, what makes Cordelia stand out is her Magic. She is equally viable as both a physical and magical unit, but using **Topsy-Turvy** is the easiest way to carve out a niche for her. Her heals, by extension, are the most potent of the three. As for the rest of her statline, it’s fairly well-balanced, with her skill being the high point and her Luck on the lower side. She sports massive Resistance as well, though this is a trait shared by her sisters-in-arms.
@@ -47,18 +47,18 @@ Res/Skill/Speed (+5 if A/A+, otherwise +3)
 
 ### Hinoka
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   865 |
-| Str  |    98 |
-| Mag  |    51 |
-| Skl  |   101 |
-| Spe  |   123 |
-| Lck  |   110 |
-| Def  |   103 |
-| Res  |   153 |
+| HP   |   975 |
+| Str  |   109 |
+| Mag  |    57 |
+| Skl  |   113 |
+| Spe  |   137 |
+| Lck  |   123 |
+| Def  |   115 |
+| Res  |   171 |
 {: .table .table-sm .stats}
 
 Despite having the lowest Resistance of the three, Hinoka’s claim to fame is her bulk, being overall the highest of the three Pegasi. She also has he highest Strength of the three. This makes her the best all-around brawler of the three and the best suited to handle physical threats.
@@ -85,18 +85,18 @@ Res/Skill/Speed (+5 if A/A+, otherwise +3)
 
 ### Caeda
 
-#### Stats at Level 130 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Value |
 | :--- | ----: |
-| HP   |   844 |
-| Str  |    87 |
-| Mag  |    51 |
-| Skl  |   102 |
-| Spe  |   155 |
-| Lck  |   146 |
-| Def  |    84 |
-| Res  |   168 |
+| HP   |   952 |
+| Str  |    97 |
+| Mag  |    57 |
+| Skl  |   114 |
+| Spe  |   173 |
+| Lck  |   163 |
+| Def  |    94 |
+| Res  |   187 |
 {: .table .table-sm .stats}
 
 Caeda is the most "traditional" Pegasus Knight in the game, with absurdly high Speed, Luck, and Resistance, but with low Strength and Defense. Thankfully, given her high Speed, she can carve out a niche for herself with an Awakening focused build. Her high Luck lets hher use Luna to amazing effect as well.

@@ -7,18 +7,18 @@ Hi everyone! Today’s guide is on the only dragonstone user in the game, Tiki.
 
 ## Basic Info
 
-#### Stats at Level 99 Promoted
+#### Stats at Level 150 Promoted
 
 | Stat | Human | Dragon |
 | :--- | ----: | -----: |
-| HP   |   575 |    575 |
-| Str  |    69 |     99 |
-| Mag  |    63 |     81 |
-| Skl  |    52 |     69 |
-| Spe  |    67 |     87 |
-| Lck  |    81 |     81 |
-| Def  |    76 |    121 |
-| Res  |    87 |    124 |
+| HP   |   809 |    809 |
+| Str  |    94 |    132 |
+| Mag  |    85 |    107 |
+| Skl  |    71 |     92 |
+| Spe  |    91 |    116 |
+| Lck  |   110 |    110 |
+| Def  |   103 |    159 |
+| Res  |   118 |    164 |
 {: .table .table-sm .stats}
 
 Aside from her Defense and Resistance, Human Tiki’s stats are just bad, plain and simple. Dragon Tiki on the other hand has solid offenses, and despite her very low HP pool, her Defense and Resistance are extraordinary. Tiki is the only character in the game that uses both her Strength and Magic to calculate her damage, so thankfully neither of those stats are wasted in any way. She also gets a minor movement boost (from 6 to 8), which is pretty neat too.
