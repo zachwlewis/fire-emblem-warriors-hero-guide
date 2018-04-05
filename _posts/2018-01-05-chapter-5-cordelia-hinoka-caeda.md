@@ -165,6 +165,8 @@ Hinoka has 6 weapon slot syndrome. **Strong IV**, V, and **Rainstorm** are prett
 
 ### Caeda
 
+#### Vanilla
+
 - **Strong IV**
 - **Strong V**
 - **Rainstorm**
@@ -173,6 +175,22 @@ Hinoka has 6 weapon slot syndrome. **Strong IV**, V, and **Rainstorm** are prett
 - Choose one: **Strong I**, **Strong III**, **Strong VI**, **Antitriangle**
 
 We’re going full Awakening with Caeda. As such, you can consider Crit+ over **Pair Up+** as she will have yellow gauges most of the time, though **Pair Up+** is a much more consistent booster. **Awaken Gift** is necessary for this build, extending her already high Awakening uptime. For your last slot, choose your favorite crowd clearer, or take **Antitriangle** if you opted for double slayers on Hinoka.
+
+#### DLC
+
+##### Wing Spear
+
+- **Armor Strike**
+- Choose one: Axebreaker, Lancebreaker, **Stonebreaker**
+- Choose one: Strong I, **Strong IV**, Strong V, or Critical Focus
+- Choose one: **Pair Up+**, Warrior+, Critical+
+- Choose one: **Amped**, Bolster, Antitriangle, or Critical Focus
+- Choose one: **Wingslayer** or Dracoslayer
+- _Rampager_
+- _Divine Favor_
+
+Caeda's Wing Spear is unique, even for a signature weapon — it's the only weapon in the game with access to the aptly named Rampager skill. Rampager is Mountslayer and Plateslayer combined, which means she gets two slayers for the price of one. Adding a third slayer of your choice gives Caeda winning matchups against most of the cast. Armor Strike is always nice to have. If you have the Fates DLC, choose a breaker. Axebreaker and Lancebreaker are good all around choices, and while Stonebreaker is usually bad, it can actually help a Wingslayer Caeda against Manaketes. If you don't have the Fates DLC, take a second Strong skill. The Pegasus Knight moveset has quite a few good combos, so choose your favorite. Strong I helps your crowd clear, Strong V helps vs officers, and Strong IV helps with both, but doesn't do either as well. Next, a 5k skill: Pair Up+ is the best as usual, but Warrior and Critical are solid as well. Next, Amped is a fantastic skill that boosts all of Caeda's stats by 20%. This includes her absolutely massive Luck stat. You could alternatively go with Bolster, which increases the potency of your 5k and Strong skills, Antitriangle, to give her a more defined niche (though units strong against axes are a dime a dozen in this game), or Critical Focus, which is nice but not stricly necessary as Caeda has no trouble breaking stun gauges.
+
 
 ## Boost Skills
 
@@ -261,44 +279,57 @@ Solidarity (Robin), Dracoshield (Corrin), Str +10 (Lissa), Luck +20 (Celica), Li
 
 ### Caeda
 
-| Skill          | Hero        |  PC   |  AI   |
-| :------------- | :---------- | :---: | :---: |
-| Astra          | Ryoma       | **M** | **M** |
-| Luna           | Chrom       | **M** | **M** |
-| Trample        | Camilla     | **M** | **M** |
-| Awakening      | Lucina      |   O   |   –   |
-| Armored Blow   | Tiki        |   O   |   –   |
-| Str +10        | Lissa       |   O   |   O   |
-| Dracoshield    | Corrin      |   O   |   O   |
-| Solidarity     | Robin       |   O   |   O   |
-| Pavise         | Frederick   |   O   |   –   |
-| Aegis          | Xander      |   O   |   –   |
-| Live To Serve  | Lianna      |   O   |   O   |
-| Luck +20       | Celica      |   O   |   O   |
+| Skill            | Hero        |  PC   |  AI   |
+| :--------------- | :---------- | :---: | :---: |
+| Astra            | Ryoma       | **M** | **M** |
+| Luna             | Chrom       | **M** | **M** |
+| Luck +20         | Celica      | **M** | **M** |
+| Armored Blow     | Tiki        | **S** |   –   |
+| Pass             | Lyn         |   O   |   –   |
+| Lethality        | Niles       | **S** |   –   |
+| Galeforce        | Olivia      | **S** |   –   |
+| Awakening        | Lucina      |   O   |   –   |
+| Lone Wolf        | Navarre     |   O   | **S** |
+| Iote's Shield    | Minerva     |   O   |   O   |
+| Resonating Power | Owain       |   O   | **S** |
+| Trample          | Camilla     |   O   |   O   |
+| Solidarity       | Robin       |   O   | **S** |
+| Vengeance        | Tharja      |   O   |   –   |
+| Live To Serve    | Lianna      |   –   |   O   |
 {: .table .table-sm .skills}
 
-#### Mandatory Skills
+#### Mandatory skills
 
-Astra (Ryoma), Luna (Chrom), Trample (Camilla)
+**Astra (Ryoma)**, **Luna (Chrom)**, **Luck+20 (Celica)**
 
-- The big three DPS boosters.
-- At max Luck, Luna's def/res reduction is 50%.
+- The three most consistent damage boosters.
+- At Level 150, Luna ignores ~41% of foes' Defense on hit. With Luck +20, this is boosted to ~46%, and adding Amped with Luck +20 boosts it to ~54%.
 
 #### Vanguard Skills
 
-Awakening (Lucina), Armored Blow (Tiki), Str +10 (Lissa), Dracoshield (Corrin), Solidarity (Robin), Pavise (Frederick), Aegis (Xander), Live to Serve (Lianna), Luck +20 (Celica)
+**Armored Blow (Tiki)**, Pass (Lyn), **Lethality (Niles)**, **Galeforce (Olivia)**, Awakening (Lucina), Lone Wolf (Navarre), Iote's Shield (Minerva), Resonating Power (Owain), Trample (Camilla), Solidarity (Robin), Vengeance (Tharja)
 
-- Awakening is super helpful for an Awakening build, boosting the damage dealt. Speed +10 adds only a second to her Awakening duration, so it's not worth the slot.
-- Aegis and Pavise will reduce damage taken by 40% at maximum Luck.
-- Luck +20 increases Luna's def/res reduction to roughly 55%, and Aegis/Pavise's damage reduction to roughly 47%.
-- Note that while Awakening mode is active, the unit innately has Armored Blow and Pass regardless of if they are equipped. You might want Armored Blow anyway, but it’s significantly less necessary for an Awakening build.
-- All other skills covered sufficiently in above sections.
+- Armored Blow helps Caeda get in on ranged opponents and generally helps to protect her from having her armor broken. Pass fills a similar niche, but is overall less useful.
+- At level 150, Lethality has a ~82% activation rate. With Luck +20, it goes up to ~92%, and adding Amped on top of that puts you well over 100%.
+- Galeforce lets Caeda enter Awakening mode quickly and stay there longer.
+- Awakening is a nice damage boost while in Awakening mode, and synergizes very well with Galeforce.
+- Lone Wolf is a huge damage boost, but runs somewhat counter to Caeda's role as a flier.
+- Iote's Shield lets Caeda increase her good matchups even further by allowing her to engage archers.
+- Despite the large difference between Caeda's Strength and Magic, Resonating Power gives Caeda a slightly larger buff than Trample does, which can be nice.
+- Trample is wholly outclassed by Resonating Power, but can be an option for those lacking the Awakening DLC.
+- Solidarity gives a nice 25% boost when Caeda is the support, which synergizes well with her role as a flier.
+- Vengeance is a very high risk, high reward skill. The damage boost it gives is absolutely massive, but be sure to have all of your prayer crests purchased, and ideally some potions to drink. 
 
 #### Support Skills
 
-Solidarity (Robin), Dracoshield (Corrin), Str +10 (Lissa), Luck +20 (Celica), Live to Serve (Lianna)
+**Lone Wolf (Navarre)**, Iote's Shield (Minerva), **Resonating Power (Owain)**, Trample (Camilla), **Solidarity (Robin)**, Live to Serve (Lianna)
 
-- I included these for consistency’s sake, but **Caeda should never really be a green square unit.** Her unique strengths are only usable with player control. If you want an AI controlled Pegasus Knight, go with one of the other two.
+- If Caeda is going to be fighting enemies in the field, Lone Wolf is a great skill for her to have.
+- Iote's Shield lets Caeda increase her good matchups even further by allowing her to engage archers.
+- Despite the large difference between Caeda's Strength and Magic, Resonating Power gives Caeda a slightly larger buff than Trample does, which can be nice.
+- Trample is wholly outclassed by Resonating Power, but can be an option for those lacking the Awakening DLC.
+- Solidarity gives a nice 25% boost when Caeda is the support, which synergizes well with her role as a flier.
+- Live to Serve can help Caeda sustain herself while in the field.
 
 ## Conclusion
 

@@ -3,8 +3,6 @@ title: Chapter 14 — Tiki
 layout: chapter
 ---
 
-Hi everyone! Today’s guide is on the only dragonstone user in the game, Tiki.
-
 ## Basic Info
 
 #### Stats at Level 150 Promoted
@@ -79,6 +77,8 @@ Str/Def/Luck (+5 if A/A+, +3 otherwise)
 
 ## Weapon Build
 
+### Vanilla
+
 - **Strong III**
 - **Strong IV**
 - **Strong VI**
@@ -86,44 +86,66 @@ Str/Def/Luck (+5 if A/A+, +3 otherwise)
 - Choose one: **Awaken Gift**, **Warrior Gift**
 - Choose one: **Pair Up+**, Triangle+, **Critical+**
 
-`C6` is pretty easily Tiki’s best damaging combo in both forms. `C3` is her main crowd clearer in dragon form, and `C4` is useful in both forms, albeit for different reasons. **Awaken Gift** is normally optional, but Tiki is the exception: anything that lets he stay in Awakening longer is very useful. Alternatively, you can run **Warrior Gift** if you’d rather have more control over when you transform. For your 5k skill, **Pair Up+** will boost her damage in both forms while paired, Triangle+ will boost her damage as a dragon, paired or not, and **Critical+** is fairly helpful for her human form while also having some use in her dragon form. **DO NOT run **Warrior+**.** There’s no real reason to use Tiki’s Warrior special ever.
+`C6` is pretty easily Tiki’s best damaging combo in both forms. `C3` is her main crowd clearer in dragon form, and `C4` is useful in both forms, albeit for different reasons. **Awaken Gift** is normally optional, but Tiki is the exception: anything that lets he stay in Awakening longer is very useful. Alternatively, you can run **Warrior Gift** if you’d rather have more control over when you transform. For your 5k skill, **Pair Up+** will boost her damage in both forms while paired, Triangle+ will boost her damage as a dragon, paired or not, and **Critical+** is fairly helpful for her human form while also having some use in her dragon form. **DO NOT run Warrior+**. There’s no real reason to use Tiki’s Warrior special ever.
+
+### DLC
+
+#### Divinestone
+
+- **Armor Strike**
+- **Fury Builder**
+- Choose one: Swordbreaker, Axebreaker, **Lancebreaker**
+- Choose one: Pair Up+, **Triangle+**, Critical+
+- Choose one: **Amped** or Critical Focus
+- Choose one: Wingslayer, Plateslayer, or **Mountslayer**
+- _Dracoslayer_
+- _Divine Favor_
+
+What Tiki can't kill in one critical will certainly go down pretty quickly after thanks to Armor Strike. Her critical also hits in a massive area, which will spread the debuff to surrounding officers. Fury Builder synergizes very well with Tiki — deploying her is effecitvely committing yourself to playing her for most of the map anyway, so it's best to get a nice boost out of it. Next, a breaker of choice — make sure to keep your chosen Slayers in mind to optimize damage. Choose a 5k skill — Triangle+ is always active while in Awakening mode, Pair Up+ requires a Pair Up but also helps out baby Tiki, and Critical+ is a solid budget option. Amped helps Tiki out quite a bit with damage output, survivabilitiy, and Awakening duration. Finally, choose your other Slayer to compliment the built in Dracoslayer.
+
 
 ## Boost Skills
 
-| Skill          | Hero        |  PC   |
-| :------------- | :---------- | :---: |
-| Astra          | Ryoma       | **M** |
-| Luna           | Chrom       | **M** |
-| Trample        | Camilla     | **M** |
-| Awakening      | Lucina      | **M** |
-| Luck +20       | Celica      |   O   |
-| Skill +10      | Takumi      |   O   |
-| Str + 10       | Lissa       |   O   |
-| Mag +10        | Leo         |   O   |
-| Aegis          | Xander      |   O   |
-| Pavise         | Frederick   |   O   |
-| Armored Blow   | Tiki        |   O   |
-| Speed +10      | Caeda       |   O   |
+| Skill            | Hero        |  PC   |
+| :--------------- | :---------- | :---: |
+| Astra            | Ryoma       | **M** |
+| Luna             | Chrom       | **M** |
+| Luck +20         | Celica      | **M** |
+| Armored Blow     | Tiki        | **S** |
+| Lethality        | Niles       | **S** |
+| Galeforce        | Olivia      | **S** |
+| Awakening        | Lucina      |   O   |
+| Lone Wolf        | Navarre     |   O   |
+| Iote's Shield    | Minerva     |   O   |
+| Resonating Power | Owain       |   O   |
+| Trample          | Camilla     |   O   |
+| Vengeance        | Tharja      |   O   |
 {: .table .table-sm .skills}
 
-#### Mandatory Skills
+### Mandatory skills
 
-Astra (Ryoma), Luna (Chrom), Trample (Camilla), Awakening (Lucina)
+**Astra (Ryoma)**, **Luna (Chrom)**, **Luck+20 (Celica)**
 
-- These four skills are Tiki’s major damage boosters.
-- Awakening is an “always” for Tiki as she has no business being an AI unit anyway.
-- At maximum Luck, Tiki’s Luna will reduce foes’ Def/Res by roughly 40%.
+- The three most consistent damage boosters.
+- At Level 150, Luna will ignore ~28% of foes' Def/Res. With Luck +20, this goes up to ~33%, and adding Amped on top of that boosts it to 38%. 
 
-#### Vanguard Skills
+### Vanguard Skills
 
-Luck +20 (Celica), Skill +10 (Takumi), Str +10 (Lissa), Mag +10 (Leo), Aegis (Xander), Pavise (Frederick), Armored Blow (Tiki), Speed +10 (Caeda)
+Armored Blow (Tiki), Lethality (Niles), **Galeforce (Olivia)**, **Awakening (Lucina)**, **Lone Wolf (Navarre)**, Iote's Shield (Minerva), Resonating Power (Owain), Trample (Camilla), Vengeance (Tharja)
 
-- At maximum Luck, Aegis and Pavise will reduce damage taken vs the relevant weapons by 27%.
-- With Luck +20, Luna’s Def/Res reduction increases to roughly 45%, and Aegis/Pavise’s damage reduction increases to roughly 34%.
-- Skill +10 helps out her human form immensely by boosting her crits.
-- Str +10 and Mag +10 boost her flat damage.
-- Armored Blow is not strictly necessary on Tiki, as characters in Awakening mode have this skill (and Pass) built in. However, she gets it for cheap, and trying to hit things with human Tiki is suffering, especially if you're getting interrupted. Therefore, this skill is still worth consideration, but bear in mind that it does nothing for you as a dragon.
-- Speed +10 isn’t a great skill, as it only adds one second to Tiki’s Awakening mode, but every second counts right?
+- Armored Blow can be useful on baby Tiki, and she gets it for cheap. However, with how easy it is to build Awakening charge between Galeforce and dancer C1s, it's hard to justify the slot.
+- At level 150, Lethality has a 55% activation rate. With Luck +20, this increases to 65%, and adding Amped on top of that increases it to 76%. 
+- Galeforce lets Tiki enter Awakening mode absurdly fast and potentially stay there for the entire duration of the map when coupled with her C1.
+- Awakening is a nice damage boost while in Awakening mode, and synergizes very well with Galeforce.
+- Lone Wolf is a huge damage boost when not paired up, which Tiki can afford not to be.
+- Iote's Shield lets Tiki avoid the Falchion users that crop up every now and then.
+- Tiki's Strength and Magic are very close, giving her a solid boost from Resonating Power.
+- Trample is wholly outclassed by Resonating Power, but can be an option for those lacking the Awakening DLC.
+- Vengeance is a very high risk, high reward skill. The damage boost it gives is absolutely massive, but be sure to have all of your prayer crests purchased, and ideally some potions to drink. 
+
+Please remember that Tiki should not ever be run as an AI unit. If you deploy her, you should be playing as her most, if not all of the time.
+{:.alert .alert-warning}
+
 
 ## Conclusion
 
